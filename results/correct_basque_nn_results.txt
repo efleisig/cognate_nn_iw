@@ -1,0 +1,2416 @@
+Beginning classifier!
+loading baseline...
+507
+507 8190 507 2
+torch.Size([507, 8190]) torch.Size([507, 2])
+loading baseline...
+304
+304 8190 304 2
+torch.Size([304, 8190]) torch.Size([304, 2])
+loading baseline...
+1215
+1215 8190 1215 2
+torch.Size([1215, 8190]) torch.Size([1215, 2])
+BASQUE RESULTS, NO FINE-TUNING----------------------------------------
+Predicted tensor([0.8017, 0.1971]) Actual tensor([1., 0.])
+Predicted tensor([0.6898, 0.3095]) Actual tensor([0., 1.])
+Predicted tensor([0.2446, 0.7549]) Actual tensor([0., 1.])
+Predicted tensor([0.6316, 0.3679]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0085, -0.0087]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0418, -0.0412]) Actual tensor([1., 0.])
+Predicted tensor([0.2663, 0.7345]) Actual tensor([0., 1.])
+Predicted tensor([0.0463, 0.9524]) Actual tensor([0., 1.])
+Predicted tensor([0.0615, 0.9390]) Actual tensor([0., 1.])
+Predicted tensor([0.6337, 0.3659]) Actual tensor([0., 1.])
+Predicted tensor([0.8308, 0.1683]) Actual tensor([1., 0.])
+Predicted tensor([0.7311, 0.2685]) Actual tensor([1., 0.])
+Predicted tensor([0.6640, 0.3358]) Actual tensor([1., 0.])
+Predicted tensor([0.9353, 0.0637]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0077, -0.0085]) Actual tensor([1., 0.])
+Predicted tensor([0.5870, 0.4127]) Actual tensor([0., 1.])
+Predicted tensor([-0.0724,  1.0702]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0086, -0.0090]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0265, -0.0274]) Actual tensor([1., 0.])
+Predicted tensor([0.7604, 0.2401]) Actual tensor([1., 0.])
+Predicted tensor([0.2234, 0.7752]) Actual tensor([0., 1.])
+Predicted tensor([0.7203, 0.2791]) Actual tensor([1., 0.])
+Predicted tensor([0.0541, 0.9456]) Actual tensor([0., 1.])
+Predicted tensor([0.0930, 0.9061]) Actual tensor([0., 1.])
+Predicted tensor([0.7744, 0.2244]) Actual tensor([1., 0.])
+Predicted tensor([-0.1232,  1.1417]) Actual tensor([0., 1.])
+Predicted tensor([0.9120, 0.0875]) Actual tensor([1., 0.])
+Predicted tensor([0.0124, 0.9869]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0967, -0.0979]) Actual tensor([1., 0.])
+Predicted tensor([0.3820, 0.6170]) Actual tensor([0., 1.])
+Predicted tensor([0.0989, 0.8986]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1355, -0.1357]) Actual tensor([1., 0.])
+Predicted tensor([0.7872, 0.2128]) Actual tensor([1., 0.])
+Predicted tensor([0.4672, 0.5326]) Actual tensor([0., 1.])
+Predicted tensor([0.9036, 0.0958]) Actual tensor([0., 1.])
+Predicted tensor([0.3918, 0.6061]) Actual tensor([1., 0.])
+Predicted tensor([0.1519, 0.8461]) Actual tensor([0., 1.])
+Predicted tensor([0.1378, 0.8604]) Actual tensor([0., 1.])
+Predicted tensor([0.8405, 0.1590]) Actual tensor([1., 0.])
+Predicted tensor([0.1143, 0.8858]) Actual tensor([0., 1.])
+Predicted tensor([0.8374, 0.1620]) Actual tensor([1., 0.])
+Predicted tensor([0.2223, 0.7774]) Actual tensor([0., 1.])
+Predicted tensor([0.8180, 0.1816]) Actual tensor([1., 0.])
+Predicted tensor([0.7218, 0.2779]) Actual tensor([1., 0.])
+Predicted tensor([0.3238, 0.6754]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1009, -0.1014]) Actual tensor([0., 1.])
+Predicted tensor([-0.0153,  1.0154]) Actual tensor([0., 1.])
+Predicted tensor([0.5416, 0.4588]) Actual tensor([1., 0.])
+Predicted tensor([0.9243, 0.0765]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0513, -0.0520]) Actual tensor([1., 0.])
+Predicted tensor([0.9735, 0.0262]) Actual tensor([1., 0.])
+Predicted tensor([0.7942, 0.2058]) Actual tensor([1., 0.])
+Predicted tensor([0.3962, 0.6037]) Actual tensor([0., 1.])
+Predicted tensor([0.8139, 0.1851]) Actual tensor([1., 0.])
+Predicted tensor([0.6310, 0.3677]) Actual tensor([0., 1.])
+Predicted tensor([-0.0017,  1.0006]) Actual tensor([0., 1.])
+Predicted tensor([0.4783, 0.5211]) Actual tensor([0., 1.])
+Predicted tensor([0.7768, 0.2224]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1121, -0.1125]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0679, -0.0690]) Actual tensor([1., 0.])
+Predicted tensor([0.8822, 0.1166]) Actual tensor([1., 0.])
+Predicted tensor([0.6430, 0.3576]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0466, -0.0465]) Actual tensor([1., 0.])
+Predicted tensor([0.8416, 0.1578]) Actual tensor([1., 0.])
+Predicted tensor([0.5491, 0.4509]) Actual tensor([0., 1.])
+Predicted tensor([0.8315, 0.1680]) Actual tensor([0., 1.])
+Predicted tensor([0.9553, 0.0440]) Actual tensor([1., 0.])
+Predicted tensor([0.6431, 0.3563]) Actual tensor([1., 0.])
+Predicted tensor([0.0206, 0.9791]) Actual tensor([0., 1.])
+Predicted tensor([0.1826, 0.8162]) Actual tensor([0., 1.])
+Predicted tensor([-0.0470,  1.0440]) Actual tensor([0., 1.])
+Predicted tensor([0.3704, 0.6289]) Actual tensor([0., 1.])
+Predicted tensor([-0.1810,  1.1803]) Actual tensor([0., 1.])
+Predicted tensor([0.1734, 0.8263]) Actual tensor([0., 1.])
+Predicted tensor([0.8298, 0.1691]) Actual tensor([1., 0.])
+Predicted tensor([0.5264, 0.4734]) Actual tensor([1., 0.])
+Predicted tensor([0.9045, 0.0950]) Actual tensor([1., 0.])
+Predicted tensor([-0.1706,  1.1675]) Actual tensor([0., 1.])
+Predicted tensor([0.8712, 0.1286]) Actual tensor([1., 0.])
+Predicted tensor([0.3122, 0.6870]) Actual tensor([0., 1.])
+Predicted tensor([0.7966, 0.2030]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0535, -0.0532]) Actual tensor([1., 0.])
+Predicted tensor([0.5082, 0.4913]) Actual tensor([0., 1.])
+Predicted tensor([-0.1107,  1.1103]) Actual tensor([0., 1.])
+Predicted tensor([0.7827, 0.2176]) Actual tensor([1., 0.])
+Predicted tensor([0.5104, 0.4889]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0272, -0.0273]) Actual tensor([1., 0.])
+Predicted tensor([0.8426, 0.1570]) Actual tensor([1., 0.])
+Predicted tensor([0.0205, 0.9789]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1065, -0.1073]) Actual tensor([1., 0.])
+Predicted tensor([0.0705, 0.9280]) Actual tensor([0., 1.])
+Predicted tensor([ 1.3646, -0.3651]) Actual tensor([1., 0.])
+Predicted tensor([0.1039, 0.8954]) Actual tensor([0., 1.])
+Predicted tensor([0.8530, 0.1465]) Actual tensor([1., 0.])
+Predicted tensor([0.7888, 0.2099]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0559, -0.0565]) Actual tensor([1., 0.])
+Predicted tensor([0.3861, 0.6139]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1107, -0.1115]) Actual tensor([0., 1.])
+Predicted tensor([0.5707, 0.4274]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0338, -0.0342]) Actual tensor([1., 0.])
+Predicted tensor([0.8227, 0.1775]) Actual tensor([1., 0.])
+Predicted tensor([0.9351, 0.0640]) Actual tensor([1., 0.])
+Predicted tensor([0.2539, 0.7450]) Actual tensor([0., 1.])
+Predicted tensor([0.5061, 0.4922]) Actual tensor([1., 0.])
+Predicted tensor([0.1808, 0.8186]) Actual tensor([0., 1.])
+Predicted tensor([0.6622, 0.3369]) Actual tensor([1., 0.])
+Predicted tensor([0.0943, 0.9057]) Actual tensor([0., 1.])
+Predicted tensor([0.2357, 0.7760]) Actual tensor([0., 1.])
+Predicted tensor([0.7814, 0.2170]) Actual tensor([1., 0.])
+Predicted tensor([0.6840, 0.3155]) Actual tensor([0., 1.])
+Predicted tensor([0.7906, 0.2094]) Actual tensor([1., 0.])
+Predicted tensor([0.7638, 0.2355]) Actual tensor([1., 0.])
+Predicted tensor([0.5717, 0.4297]) Actual tensor([1., 0.])
+Predicted tensor([0.9435, 0.0553]) Actual tensor([0., 1.])
+Predicted tensor([0.9195, 0.0799]) Actual tensor([1., 0.])
+Predicted tensor([0.9438, 0.0560]) Actual tensor([1., 0.])
+Predicted tensor([0.9980, 0.0021]) Actual tensor([1., 0.])
+Predicted tensor([-0.0754,  1.0741]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0929, -0.0933]) Actual tensor([1., 0.])
+Predicted tensor([0.0849, 0.9149]) Actual tensor([0., 1.])
+Predicted tensor([0.5831, 0.4166]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1362, -0.1368]) Actual tensor([1., 0.])
+Predicted tensor([0.5788, 0.4206]) Actual tensor([1., 0.])
+Predicted tensor([-0.1237,  1.1235]) Actual tensor([0., 1.])
+Predicted tensor([0.6988, 0.2999]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1870, -0.1874]) Actual tensor([1., 0.])
+Predicted tensor([0.9601, 0.0396]) Actual tensor([1., 0.])
+Predicted tensor([-0.0741,  1.0740]) Actual tensor([0., 1.])
+Predicted tensor([0.7529, 0.2462]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0608, -0.0613]) Actual tensor([0., 1.])
+Predicted tensor([0.5131, 0.4871]) Actual tensor([1., 0.])
+Predicted tensor([9.8890e-04, 9.9750e-01]) Actual tensor([0., 1.])
+Predicted tensor([-0.0397,  1.0397]) Actual tensor([0., 1.])
+Predicted tensor([0.8990, 0.1008]) Actual tensor([1., 0.])
+Predicted tensor([0.6813, 0.3200]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0364, -0.0370]) Actual tensor([1., 0.])
+Predicted tensor([0.0956, 0.9043]) Actual tensor([0., 1.])
+Predicted tensor([0.0421, 0.9575]) Actual tensor([0., 1.])
+Predicted tensor([0.1005, 0.8994]) Actual tensor([0., 1.])
+Predicted tensor([0.3876, 0.6123]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0157, -0.0153]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0601, -0.0603]) Actual tensor([1., 0.])
+Predicted tensor([-0.2089,  1.2088]) Actual tensor([0., 1.])
+Predicted tensor([0.3668, 0.6320]) Actual tensor([0., 1.])
+Predicted tensor([0.7594, 0.2407]) Actual tensor([0., 1.])
+Predicted tensor([0.3408, 0.6594]) Actual tensor([0., 1.])
+Predicted tensor([0.0612, 0.9375]) Actual tensor([0., 1.])
+Predicted tensor([0.5088, 0.4892]) Actual tensor([1., 0.])
+Predicted tensor([0.4907, 0.5087]) Actual tensor([0., 1.])
+Predicted tensor([0.6380, 0.3611]) Actual tensor([1., 0.])
+Predicted tensor([0.7446, 0.2544]) Actual tensor([1., 0.])
+Predicted tensor([0.1623, 0.8371]) Actual tensor([0., 1.])
+Predicted tensor([0.8546, 0.1444]) Actual tensor([0., 1.])
+Predicted tensor([0.4286, 0.5699]) Actual tensor([0., 1.])
+Predicted tensor([0.7686, 0.2306]) Actual tensor([1., 0.])
+Predicted tensor([0.5795, 0.4197]) Actual tensor([1., 0.])
+Predicted tensor([0.9271, 0.0730]) Actual tensor([1., 0.])
+Predicted tensor([0.7691, 0.2297]) Actual tensor([1., 0.])
+Predicted tensor([0.9487, 0.0504]) Actual tensor([0., 1.])
+Predicted tensor([0.6987, 0.3015]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1067, -0.1073]) Actual tensor([1., 0.])
+Predicted tensor([0.7963, 0.2028]) Actual tensor([1., 0.])
+Predicted tensor([0.4117, 0.5882]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1878, -0.1881]) Actual tensor([1., 0.])
+Predicted tensor([0.1592, 0.8398]) Actual tensor([0., 1.])
+Predicted tensor([0.6395, 0.3599]) Actual tensor([0., 1.])
+Predicted tensor([0.4603, 0.5412]) Actual tensor([1., 0.])
+Predicted tensor([0.0862, 0.9130]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1104, -0.1103]) Actual tensor([1., 0.])
+Predicted tensor([-0.1501,  1.1493]) Actual tensor([0., 1.])
+Predicted tensor([0.8839, 0.1152]) Actual tensor([1., 0.])
+Predicted tensor([0.0174, 0.9816]) Actual tensor([0., 1.])
+Predicted tensor([-2.5478e-04,  1.0041e+00]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2755, -0.2760]) Actual tensor([1., 0.])
+Predicted tensor([0.5061, 0.4936]) Actual tensor([0., 1.])
+Predicted tensor([0.1043, 0.8956]) Actual tensor([0., 1.])
+Predicted tensor([0.8118, 0.1879]) Actual tensor([1., 0.])
+Predicted tensor([0.6923, 0.3071]) Actual tensor([0., 1.])
+Predicted tensor([ 1.3815, -0.3823]) Actual tensor([1., 0.])
+Predicted tensor([0.4055, 0.5932]) Actual tensor([0., 1.])
+Predicted tensor([0.2826, 0.7169]) Actual tensor([0., 1.])
+Predicted tensor([0.6677, 0.3313]) Actual tensor([1., 0.])
+Predicted tensor([0.8938, 0.1061]) Actual tensor([1., 0.])
+Predicted tensor([0.6122, 0.3885]) Actual tensor([0., 1.])
+Predicted tensor([0.1891, 0.8108]) Actual tensor([1., 0.])
+Predicted tensor([0.2144, 0.7861]) Actual tensor([0., 1.])
+Predicted tensor([0.2660, 0.7334]) Actual tensor([0., 1.])
+Predicted tensor([0.9217, 0.0778]) Actual tensor([1., 0.])
+Predicted tensor([0.6104, 0.3887]) Actual tensor([1., 0.])
+Predicted tensor([-0.2127,  1.2250]) Actual tensor([0., 1.])
+Predicted tensor([0.0266, 0.9709]) Actual tensor([0., 1.])
+Predicted tensor([0.7044, 0.2952]) Actual tensor([1., 0.])
+Predicted tensor([-0.1526,  1.1535]) Actual tensor([0., 1.])
+Predicted tensor([0.4940, 0.5054]) Actual tensor([0., 1.])
+Predicted tensor([-0.0065,  1.0063]) Actual tensor([0., 1.])
+Predicted tensor([0.9110, 0.0880]) Actual tensor([1., 0.])
+Predicted tensor([0.8011, 0.1985]) Actual tensor([1., 0.])
+Predicted tensor([0.9347, 0.0654]) Actual tensor([1., 0.])
+Predicted tensor([0.3516, 0.6479]) Actual tensor([0., 1.])
+Predicted tensor([0.7359, 0.2631]) Actual tensor([1., 0.])
+Predicted tensor([0.0165, 0.9840]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2177, -0.2155]) Actual tensor([1., 0.])
+Predicted tensor([0.3530, 0.6462]) Actual tensor([0., 1.])
+Predicted tensor([0.3671, 0.6327]) Actual tensor([0., 1.])
+Predicted tensor([0.6129, 0.3879]) Actual tensor([1., 0.])
+Predicted tensor([ 9.9932e-01, -9.3436e-04]) Actual tensor([1., 0.])
+Predicted tensor([0.9547, 0.0448]) Actual tensor([1., 0.])
+Predicted tensor([0.9813, 0.0181]) Actual tensor([1., 0.])
+Predicted tensor([ 1.3018, -0.3020]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0925, -0.0928]) Actual tensor([1., 0.])
+Predicted tensor([0.2497, 0.7496]) Actual tensor([0., 1.])
+Predicted tensor([0.4251, 0.5739]) Actual tensor([0., 1.])
+Predicted tensor([0.8400, 0.1602]) Actual tensor([1., 0.])
+Predicted tensor([-0.0276,  1.0275]) Actual tensor([0., 1.])
+Predicted tensor([0.6183, 0.3815]) Actual tensor([0., 1.])
+Predicted tensor([0.6592, 0.3396]) Actual tensor([1., 0.])
+Predicted tensor([0.4046, 0.5946]) Actual tensor([0., 1.])
+Predicted tensor([0.2026, 0.7964]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0835, -0.0841]) Actual tensor([1., 0.])
+Predicted tensor([0.3180, 0.6824]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0211, -0.0211]) Actual tensor([1., 0.])
+Predicted tensor([0.9482, 0.0511]) Actual tensor([1., 0.])
+Predicted tensor([0.8677, 0.1318]) Actual tensor([1., 0.])
+Predicted tensor([0.0521, 0.9480]) Actual tensor([0., 1.])
+Predicted tensor([0.8918, 0.1076]) Actual tensor([1., 0.])
+Predicted tensor([0.1448, 0.8555]) Actual tensor([1., 0.])
+Predicted tensor([0.6309, 0.4062]) Actual tensor([1., 0.])
+Predicted tensor([-0.0822,  1.0817]) Actual tensor([0., 1.])
+Predicted tensor([0.1111, 0.8883]) Actual tensor([0., 1.])
+Predicted tensor([0.6009, 0.3975]) Actual tensor([0., 1.])
+Predicted tensor([0.6182, 0.3811]) Actual tensor([0., 1.])
+Predicted tensor([0.7169, 0.2821]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1806, -0.1813]) Actual tensor([1., 0.])
+Predicted tensor([-0.1129,  1.1105]) Actual tensor([0., 1.])
+Predicted tensor([0.4557, 0.5438]) Actual tensor([1., 0.])
+Predicted tensor([0.3162, 0.6824]) Actual tensor([0., 1.])
+Predicted tensor([0.6612, 0.3381]) Actual tensor([0., 1.])
+Predicted tensor([0.4161, 0.5822]) Actual tensor([0., 1.])
+Predicted tensor([0.1104, 0.8888]) Actual tensor([0., 1.])
+Predicted tensor([-0.0581,  1.0586]) Actual tensor([0., 1.])
+Predicted tensor([0.1424, 0.8575]) Actual tensor([1., 0.])
+Predicted tensor([0.7889, 0.2105]) Actual tensor([0., 1.])
+Predicted tensor([0.1100, 0.8901]) Actual tensor([0., 1.])
+Predicted tensor([0.7713, 0.2282]) Actual tensor([1., 0.])
+Predicted tensor([0.9544, 0.0449]) Actual tensor([1., 0.])
+Predicted tensor([0.8869, 0.1129]) Actual tensor([1., 0.])
+Predicted tensor([ 1.2080, -0.2090]) Actual tensor([0., 1.])
+Predicted tensor([0.3025, 0.6954]) Actual tensor([1., 0.])
+Predicted tensor([0.8362, 0.1633]) Actual tensor([0., 1.])
+Predicted tensor([0.8899, 0.1094]) Actual tensor([0., 1.])
+Predicted tensor([0.3844, 0.6154]) Actual tensor([0., 1.])
+Predicted tensor([0.6674, 0.3315]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0971, -0.0978]) Actual tensor([1., 0.])
+Predicted tensor([0.7909, 0.2081]) Actual tensor([1., 0.])
+Predicted tensor([0.2257, 0.7728]) Actual tensor([0., 1.])
+Predicted tensor([0.0185, 1.0050]) Actual tensor([0., 1.])
+Predicted tensor([0.1369, 0.8626]) Actual tensor([0., 1.])
+Predicted tensor([0.6464, 0.3534]) Actual tensor([1., 0.])
+Predicted tensor([-0.0194,  1.0192]) Actual tensor([0., 1.])
+Predicted tensor([0.1605, 0.8378]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0734, -0.0740]) Actual tensor([1., 0.])
+Predicted tensor([0.2337, 0.7645]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0772, -0.0774]) Actual tensor([1., 0.])
+Predicted tensor([0.9763, 0.0227]) Actual tensor([1., 0.])
+Predicted tensor([0.4917, 0.5085]) Actual tensor([1., 0.])
+Predicted tensor([0.2347, 0.7648]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0712, -0.0712]) Actual tensor([1., 0.])
+Predicted tensor([0.4820, 0.5168]) Actual tensor([0., 1.])
+Predicted tensor([0.5554, 0.4442]) Actual tensor([0., 1.])
+Predicted tensor([0.1969, 0.8008]) Actual tensor([0., 1.])
+Predicted tensor([0.5462, 0.4532]) Actual tensor([0., 1.])
+Predicted tensor([0.7312, 0.2684]) Actual tensor([1., 0.])
+Predicted tensor([0.6692, 0.3308]) Actual tensor([1., 0.])
+Predicted tensor([0.2588, 0.7417]) Actual tensor([0., 1.])
+Predicted tensor([0.9507, 0.0496]) Actual tensor([1., 0.])
+Predicted tensor([0.0543, 0.9445]) Actual tensor([0., 1.])
+Predicted tensor([0.8524, 0.1468]) Actual tensor([1., 0.])
+Predicted tensor([0.9073, 0.0915]) Actual tensor([1., 0.])
+Predicted tensor([0.5368, 0.4625]) Actual tensor([0., 1.])
+Predicted tensor([0.3990, 0.6000]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1611, -0.1616]) Actual tensor([1., 0.])
+Predicted tensor([0.9443, 0.0544]) Actual tensor([1., 0.])
+Predicted tensor([0.6142, 0.3860]) Actual tensor([1., 0.])
+Predicted tensor([0.9694, 0.0300]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0544, -0.0547]) Actual tensor([1., 0.])
+Predicted tensor([0.0368, 0.9614]) Actual tensor([0., 1.])
+Predicted tensor([0.0594, 0.9391]) Actual tensor([0., 1.])
+Predicted tensor([0.8327, 0.1672]) Actual tensor([1., 0.])
+Predicted tensor([ 1.2608, -0.2611]) Actual tensor([1., 0.])
+Predicted tensor([0.1417, 0.8572]) Actual tensor([0., 1.])
+Predicted tensor([0.2654, 0.7348]) Actual tensor([0., 1.])
+Predicted tensor([-0.0957,  1.0924]) Actual tensor([0., 1.])
+Predicted tensor([0.5396, 0.4593]) Actual tensor([1., 0.])
+Predicted tensor([0.9297, 0.0691]) Actual tensor([1., 0.])
+Predicted tensor([0.8777, 0.1216]) Actual tensor([1., 0.])
+Predicted tensor([-0.1915,  1.1911]) Actual tensor([0., 1.])
+Predicted tensor([0.3772, 0.6223]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1087, -0.1090]) Actual tensor([1., 0.])
+Predicted tensor([0.0724, 0.9255]) Actual tensor([0., 1.])
+Predicted tensor([0.9409, 0.0582]) Actual tensor([1., 0.])
+Predicted tensor([0.2170, 0.7815]) Actual tensor([0., 1.])
+Predicted tensor([-0.0812,  1.0798]) Actual tensor([0., 1.])
+Predicted tensor([0.8228, 0.1768]) Actual tensor([1., 0.])
+Predicted tensor([0.1384, 0.8661]) Actual tensor([1., 0.])
+Predicted tensor([0.8990, 0.1003]) Actual tensor([0., 1.])
+Predicted tensor([0.2970, 0.7020]) Actual tensor([0., 1.])
+Predicted tensor([0.8939, 0.1065]) Actual tensor([1., 0.])
+Predicted tensor([0.0255, 0.9741]) Actual tensor([0., 1.])
+Predicted tensor([0.7739, 0.2246]) Actual tensor([1., 0.])
+Predicted tensor([0.7201, 0.2788]) Actual tensor([1., 0.])
+Predicted tensor([0.4687, 0.5315]) Actual tensor([0., 1.])
+Predicted tensor([0.5995, 0.3997]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0522, -0.0527]) Actual tensor([1., 0.])
+Predicted tensor([0.6760, 0.3237]) Actual tensor([0., 1.])
+Predicted tensor([-0.0577,  1.0581]) Actual tensor([0., 1.])
+Predicted tensor([0.0654, 0.9333]) Actual tensor([0., 1.])
+Predicted tensor([0.8021, 0.1971]) Actual tensor([1., 0.])
+Predicted tensor([0.0545, 0.9440]) Actual tensor([0., 1.])
+Predicted tensor([0.8403, 0.1590]) Actual tensor([1., 0.])
+Predicted tensor([0.6174, 0.3812]) Actual tensor([1., 0.])
+Predicted tensor([0.9265, 0.0730]) Actual tensor([1., 0.])
+Predicted tensor([0.7041, 0.2954]) Actual tensor([1., 0.])
+Predicted tensor([0.0467, 0.9529]) Actual tensor([0., 1.])
+Predicted tensor([0.2260, 0.7735]) Actual tensor([1., 0.])
+Predicted tensor([0.0586, 0.9473]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2615, -0.2619]) Actual tensor([0., 1.])
+Predicted tensor([0.2927, 0.7072]) Actual tensor([0., 1.])
+Predicted tensor([0.3179, 0.6806]) Actual tensor([1., 0.])
+Predicted tensor([0.1018, 0.8980]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0475, -0.0488]) Actual tensor([1., 0.])
+Predicted tensor([0.6831, 0.3310]) Actual tensor([1., 0.])
+Predicted tensor([0.8589, 0.1398]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0529, -0.0535]) Actual tensor([1., 0.])
+Predicted tensor([0.8043, 0.1951]) Actual tensor([1., 0.])
+Predicted tensor([0.4227, 0.5769]) Actual tensor([0., 1.])
+Predicted tensor([-0.2034,  1.2319]) Actual tensor([0., 1.])
+Predicted tensor([0.6754, 0.3239]) Actual tensor([0., 1.])
+Predicted tensor([0.2740, 0.7248]) Actual tensor([0., 1.])
+Predicted tensor([0.9205, 0.0793]) Actual tensor([1., 0.])
+Predicted tensor([0.8325, 0.1661]) Actual tensor([1., 0.])
+Predicted tensor([0.6242, 0.3746]) Actual tensor([1., 0.])
+Predicted tensor([0.8394, 0.1615]) Actual tensor([1., 0.])
+Predicted tensor([0.6234, 0.3753]) Actual tensor([1., 0.])
+Predicted tensor([ 1.3173, -0.3177]) Actual tensor([1., 0.])
+Predicted tensor([0.6798, 0.3194]) Actual tensor([1., 0.])
+Predicted tensor([0.6734, 0.3269]) Actual tensor([1., 0.])
+Predicted tensor([0.7497, 0.2492]) Actual tensor([1., 0.])
+Predicted tensor([-0.0098,  1.0075]) Actual tensor([0., 1.])
+Predicted tensor([0.1736, 0.8248]) Actual tensor([0., 1.])
+Predicted tensor([0.0672, 0.9326]) Actual tensor([0., 1.])
+Predicted tensor([0.2522, 0.7472]) Actual tensor([0., 1.])
+Predicted tensor([0.1761, 0.8237]) Actual tensor([0., 1.])
+Predicted tensor([0.0274, 0.9702]) Actual tensor([0., 1.])
+Predicted tensor([0.4050, 0.5939]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1479, -0.1488]) Actual tensor([1., 0.])
+Predicted tensor([0.0019, 0.9984]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1252, -0.1252]) Actual tensor([1., 0.])
+Predicted tensor([0.8162, 0.1835]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0102, -0.0106]) Actual tensor([1., 0.])
+Predicted tensor([-0.0252,  1.0256]) Actual tensor([0., 1.])
+Predicted tensor([0.5117, 0.4861]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1672, -0.1672]) Actual tensor([1., 0.])
+Predicted tensor([0.1305, 0.8669]) Actual tensor([0., 1.])
+Predicted tensor([0.8041, 0.2025]) Actual tensor([1., 0.])
+Predicted tensor([0.0104, 0.9876]) Actual tensor([0., 1.])
+Predicted tensor([-0.0944,  1.0940]) Actual tensor([0., 1.])
+Predicted tensor([0.1923, 0.8059]) Actual tensor([0., 1.])
+Predicted tensor([-0.0338,  1.0334]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1121, -0.1129]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0358, -0.0362]) Actual tensor([0., 1.])
+Predicted tensor([0.9269, 0.0728]) Actual tensor([1., 0.])
+Predicted tensor([0.9333, 0.0659]) Actual tensor([1., 0.])
+Predicted tensor([0.4307, 0.5685]) Actual tensor([0., 1.])
+Predicted tensor([0.2477, 0.7509]) Actual tensor([0., 1.])
+Predicted tensor([0.1526, 0.8468]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2058, -0.2065]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1522, -0.1524]) Actual tensor([1., 0.])
+Predicted tensor([0.7923, 0.2073]) Actual tensor([1., 0.])
+Predicted tensor([0.8660, 0.1333]) Actual tensor([1., 0.])
+Predicted tensor([0.7558, 0.2557]) Actual tensor([1., 0.])
+Predicted tensor([0.5656, 0.4524]) Actual tensor([0., 1.])
+Predicted tensor([0.7578, 0.2413]) Actual tensor([1., 0.])
+Predicted tensor([0.3241, 0.6754]) Actual tensor([0., 1.])
+Predicted tensor([0.8380, 0.1617]) Actual tensor([1., 0.])
+Predicted tensor([0.4956, 0.5043]) Actual tensor([1., 0.])
+Predicted tensor([ 1.2944, -0.2940]) Actual tensor([1., 0.])
+Predicted tensor([0.3209, 0.6798]) Actual tensor([1., 0.])
+Predicted tensor([0.3378, 0.6614]) Actual tensor([0., 1.])
+Predicted tensor([0.1824, 0.8164]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2029, -0.2030]) Actual tensor([1., 0.])
+Predicted tensor([0.3106, 0.6887]) Actual tensor([0., 1.])
+Predicted tensor([0.8192, 0.1810]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0441, -0.0444]) Actual tensor([1., 0.])
+Predicted tensor([0.9452, 0.0537]) Actual tensor([1., 0.])
+Predicted tensor([0.9135, 0.0860]) Actual tensor([1., 0.])
+Predicted tensor([0.7562, 0.2437]) Actual tensor([1., 0.])
+Predicted tensor([0.5830, 0.4168]) Actual tensor([1., 0.])
+Predicted tensor([0.9950, 0.0049]) Actual tensor([1., 0.])
+Predicted tensor([0.2292, 0.7690]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0123, -0.0128]) Actual tensor([0., 1.])
+Predicted tensor([-0.0311,  1.0300]) Actual tensor([0., 1.])
+Predicted tensor([0.8407, 0.1586]) Actual tensor([0., 1.])
+Predicted tensor([0.1688, 0.8293]) Actual tensor([1., 0.])
+Predicted tensor([0.5481, 0.4516]) Actual tensor([0., 1.])
+Predicted tensor([0.9375, 0.0623]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0899, -0.0900]) Actual tensor([1., 0.])
+Predicted tensor([-0.0238,  1.0234]) Actual tensor([0., 1.])
+Predicted tensor([0.5542, 0.4463]) Actual tensor([1., 0.])
+Predicted tensor([0.7197, 0.2800]) Actual tensor([1., 0.])
+Predicted tensor([0.4863, 0.5134]) Actual tensor([1., 0.])
+Predicted tensor([0.6129, 0.3865]) Actual tensor([1., 0.])
+Predicted tensor([0.3538, 0.6449]) Actual tensor([0., 1.])
+Predicted tensor([0.1265, 0.8729]) Actual tensor([0., 1.])
+Predicted tensor([0.9898, 0.0100]) Actual tensor([1., 0.])
+Predicted tensor([0.0695, 0.9303]) Actual tensor([0., 1.])
+Predicted tensor([-0.0030,  1.0012]) Actual tensor([0., 1.])
+Predicted tensor([0.5196, 0.4972]) Actual tensor([0., 1.])
+Predicted tensor([0.4813, 0.5602]) Actual tensor([0., 1.])
+Predicted tensor([0.9780, 0.0216]) Actual tensor([1., 0.])
+Predicted tensor([0.4760, 0.5231]) Actual tensor([0., 1.])
+Predicted tensor([0.3749, 0.6335]) Actual tensor([0., 1.])
+Predicted tensor([0.7941, 0.2043]) Actual tensor([1., 0.])
+Predicted tensor([0.9933, 0.0067]) Actual tensor([1., 0.])
+Predicted tensor([-0.2227,  1.2218]) Actual tensor([0., 1.])
+Predicted tensor([0.9361, 0.0641]) Actual tensor([1., 0.])
+Predicted tensor([0.2625, 0.7360]) Actual tensor([0., 1.])
+Predicted tensor([0.3139, 0.6839]) Actual tensor([0., 1.])
+Predicted tensor([-0.0378,  1.0357]) Actual tensor([0., 1.])
+Predicted tensor([0.6843, 0.3155]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1176, -0.1183]) Actual tensor([1., 0.])
+Predicted tensor([0.2933, 0.7058]) Actual tensor([0., 1.])
+Predicted tensor([-0.0629,  1.0631]) Actual tensor([0., 1.])
+Predicted tensor([0.5616, 0.4372]) Actual tensor([0., 1.])
+Predicted tensor([0.5513, 0.4481]) Actual tensor([1., 0.])
+Predicted tensor([0.8424, 0.1574]) Actual tensor([1., 0.])
+Predicted tensor([0.9029, 0.0958]) Actual tensor([1., 0.])
+Predicted tensor([0.4777, 0.5217]) Actual tensor([1., 0.])
+Predicted tensor([0.9877, 0.0116]) Actual tensor([1., 0.])
+Predicted tensor([0.9428, 0.0564]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0731, -0.0732]) Actual tensor([1., 0.])
+Predicted tensor([0.7825, 0.2180]) Actual tensor([0., 1.])
+Predicted tensor([-0.1756,  1.1754]) Actual tensor([0., 1.])
+Predicted tensor([0.4442, 0.5546]) Actual tensor([0., 1.])
+Predicted tensor([0.7427, 0.2566]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1003, -0.1007]) Actual tensor([1., 0.])
+Predicted tensor([0.3284, 0.6701]) Actual tensor([0., 1.])
+Predicted tensor([0.7008, 0.2979]) Actual tensor([0., 1.])
+Predicted tensor([0.1984, 0.8002]) Actual tensor([0., 1.])
+Predicted tensor([0.1178, 0.8796]) Actual tensor([0., 1.])
+Predicted tensor([0.3661, 0.6337]) Actual tensor([1., 0.])
+Predicted tensor([0.1158, 0.8833]) Actual tensor([0., 1.])
+Predicted tensor([0.3445, 0.6543]) Actual tensor([1., 0.])
+Predicted tensor([0.8169, 0.1833]) Actual tensor([1., 0.])
+Predicted tensor([0.8470, 0.1523]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0851, -0.0851]) Actual tensor([1., 0.])
+Predicted tensor([0.2284, 0.7719]) Actual tensor([0., 1.])
+Predicted tensor([0.7456, 0.2534]) Actual tensor([1., 0.])
+Predicted tensor([0.6369, 0.3633]) Actual tensor([0., 1.])
+Predicted tensor([0.2857, 0.7127]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0921, -0.0927]) Actual tensor([0., 1.])
+Predicted tensor([0.3925, 0.6068]) Actual tensor([0., 1.])
+Predicted tensor([0.2364, 0.7620]) Actual tensor([0., 1.])
+Predicted tensor([0.0428, 0.9571]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0971, -0.0978]) Actual tensor([1., 0.])
+Predicted tensor([-0.5112,  1.5559]) Actual tensor([0., 1.])
+Predicted tensor([0.1546, 0.8449]) Actual tensor([0., 1.])
+Predicted tensor([-0.0668,  1.0643]) Actual tensor([0., 1.])
+Predicted tensor([0.1804, 0.8202]) Actual tensor([0., 1.])
+Predicted tensor([0.8805, 0.1189]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0111, -0.0126]) Actual tensor([1., 0.])
+Predicted tensor([0.1215, 0.8760]) Actual tensor([0., 1.])
+Predicted tensor([0.9055, 0.0945]) Actual tensor([1., 0.])
+Predicted tensor([-0.0071,  1.0063]) Actual tensor([0., 1.])
+Predicted tensor([-0.5685,  1.6740]) Actual tensor([0., 1.])
+Predicted tensor([0.4534, 0.5450]) Actual tensor([1., 0.])
+Predicted tensor([0.5662, 0.4328]) Actual tensor([0., 1.])
+Predicted tensor([0.5959, 0.4046]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0621, -0.0627]) Actual tensor([1., 0.])
+Predicted tensor([0.2724, 0.7271]) Actual tensor([0., 1.])
+Predicted tensor([0.2621, 0.7372]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0284, -0.0283]) Actual tensor([1., 0.])
+Predicted tensor([0.0986, 0.9011]) Actual tensor([0., 1.])
+Predicted tensor([0.5802, 0.4198]) Actual tensor([0., 1.])
+Predicted tensor([0.5814, 0.4176]) Actual tensor([1., 0.])
+Predicted tensor([0.5826, 0.4162]) Actual tensor([1., 0.])
+Predicted tensor([0.2945, 0.7061]) Actual tensor([0., 1.])
+Predicted tensor([0.9985, 0.0014]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0239, -0.0243]) Actual tensor([1., 0.])
+Predicted tensor([0.1178, 0.8832]) Actual tensor([0., 1.])
+Predicted tensor([ 1.3249, -0.3251]) Actual tensor([1., 0.])
+Predicted tensor([0.2153, 0.7852]) Actual tensor([0., 1.])
+Predicted tensor([0.5936, 0.4055]) Actual tensor([1., 0.])
+Predicted tensor([ 1.3617, -0.3629]) Actual tensor([1., 0.])
+Predicted tensor([-0.1448,  1.1442]) Actual tensor([0., 1.])
+Predicted tensor([0.1584, 0.8401]) Actual tensor([0., 1.])
+Predicted tensor([0.0241, 0.9752]) Actual tensor([0., 1.])
+Predicted tensor([0.0828, 0.9163]) Actual tensor([0., 1.])
+Predicted tensor([0.1824, 0.8168]) Actual tensor([0., 1.])
+Predicted tensor([0.7130, 0.2862]) Actual tensor([1., 0.])
+Predicted tensor([0.0721, 0.9262]) Actual tensor([0., 1.])
+Predicted tensor([0.5871, 0.4120]) Actual tensor([1., 0.])
+Predicted tensor([-0.1377,  1.1375]) Actual tensor([0., 1.])
+Predicted tensor([0.9225, 0.0766]) Actual tensor([1., 0.])
+Predicted tensor([-0.0588,  1.0615]) Actual tensor([0., 1.])
+Predicted tensor([0.7108, 0.2880]) Actual tensor([1., 0.])
+Predicted tensor([0.0902, 0.9077]) Actual tensor([0., 1.])
+Predicted tensor([0.5525, 0.4475]) Actual tensor([0., 1.])
+Total loss: tensor(137.4726)
+Erred on:  b bizkunte s visconde &
+
+Erred on:  b zimitz s chinche &
+
+Erred on:  b kodaiña s guadaña &
+
+Erred on:  b bazka s pasto &
+
+Erred on:  b errudio s rodeo &
+
+Erred on:  b loria s gloria &
+
+Erred on:  b aingeru s escudero &
+
+Erred on:  b erretal s retal &
+
+Erred on:  b eleja s iglesia &
+
+Erred on:  b erramero s romero &
+
+Erred on:  b estakura s obstáculo &
+
+Erred on:  b ünbüdü s rmbudo &
+
+Erred on:  b debru s diablo &
+
+Erred on:  b feble s débil &
+
+Erred on:  b bezilla s arvejilla &
+
+Erred on:  b marra s virtuoso &
+
+Erred on:  b erron s ron &
+
+Erred on:  b erliebe s relieve &
+
+Erred on:  b erritmo s ritmo &
+
+Erred on:  b zaurin s zahorí &
+
+Erred on:  b berna s pierna &
+
+Erred on:  b bostaza s mostaza &
+
+Erred on:  b errebista s revista &
+
+Erred on:  b errespuesta s respuesta &
+
+Erred on:  b futre s buitre &
+
+Erred on:  b durduratu s dudar &
+
+Erred on:  b nabala s gabán &
+
+Erred on:  b xeru s gerón &
+
+Erred on:  b txamaraska s chamarasca &
+
+Erred on:  b gate s cadena &
+
+Erred on:  b kastor s bastón &
+
+Erred on:  b dorpe s torpe &
+
+Erred on:  b dantza s ducado &
+
+Erred on:  b soslai s solo &
+
+Erred on:  b erlojero s relojero &
+
+Erred on:  b erribete s ribete &
+
+Erred on:  b abito s vanagloria &
+
+Erred on:  b bortitz s fuerte &
+
+Erred on:  b kasuista s carabina &
+
+Erred on:  b erlikia s reliquia &
+
+Erred on:  b trezeba s pesebre &
+
+Erred on:  b erregela s orégano &
+
+Erred on:  b bentzario s vencejo &
+
+Erred on:  b txamelote s chamelote &
+
+Erred on:  b mabiska s garita &
+
+Erred on:  b bapore s vapore &
+
+Erred on:  b loben s novén &
+
+Erred on:  b txarro s jarro &
+
+Erred on:  b mendekoste s pentecostés &
+
+Erred on:  b abarka s alaga &
+
+Erred on:  b bapo s guapo &
+
+Erred on:  b xahu s sano &
+
+Erred on:  b gambara s garrapata &
+
+Erred on:  b errebes s revés &
+
+Erred on:  b besta s pierna &
+
+Erred on:  b ipuro s enebro &
+
+Erred on:  b txinizta s hiniesta &
+
+Erred on:  b ule s hule &
+
+Erred on:  b laratro s gastar &
+
+Erred on:  b galtza s papirote &
+
+Erred on:  b dastatu s tastar &
+
+Erred on:  b bike s pez &
+
+Erred on:  b txarol s charol &
+
+Erred on:  b estañu s estéreo &
+
+Erred on:  b txuzo s chuzo &
+
+Erred on:  b bukatu s acabar &
+
+Erred on:  b garmu s vara &
+
+Erred on:  b erdeiñu s desdeño &
+
+Erred on:  b baka s paca &
+
+Erred on:  b eritu s herir &
+
+Erred on:  b finjitu s fásmido &
+
+Erred on:  b bultza s impulso &
+
+Erred on:  b eliza s iglesia &
+
+Erred on:  b zaurin s barra &
+
+Erred on:  b estañu s elevado &
+
+Erred on:  b bazko s pascua &
+
+Erred on:  b erregina s reina &
+
+Erred on:  b bionbo s vencejo &
+
+Erred on:  b firu s hilo &
+
+Erred on:  b mantal s delantal &
+
+Erred on:  b galtzeta s calceta &
+
+[[231  21]
+ [ 60 195]]
+F1: 0.8280254777070064
+(array([0.79381443, 0.90277778]), array([0.91666667, 0.76470588]), array([0.85082873, 0.82802548]), array([252, 255]))
+252 255
+291 216
+426 507
+Accuracy: 0.8402366863905325
+BASQUE RESULTS, WITH FINE-TUNING--------------------------------------
+N 1 D_in 8906 H 100
+Begin training...
+Epoch  0 , loss: 0.0041170245967805386
+Epoch  4 , loss: 0.3878312110900879
+Epoch  8 , loss: 0.4927673041820526
+Epoch  12 , loss: 0.0563943050801754
+Epoch  16 , loss: 0.023315396159887314
+Epoch  20 , loss: 0.08836334198713303
+Epoch  24 , loss: 0.19944556057453156
+Epoch  28 , loss: 0.026456689462065697
+Epoch  32 , loss: 0.05508524179458618
+Epoch  36 , loss: 0.05225249007344246
+Epoch  40 , loss: 0.6473235487937927
+Epoch  44 , loss: 0.016575617715716362
+Epoch  48 , loss: 0.2823027968406677
+Epoch  52 , loss: 0.0008989086491055787
+Epoch  56 , loss: 0.06885180622339249
+Epoch  60 , loss: 0.0029019045177847147
+Epoch  64 , loss: 0.2335052341222763
+Epoch  68 , loss: 0.016097383573651314
+Epoch  72 , loss: 0.0742160826921463
+Epoch  76 , loss: 0.009106654673814774
+Epoch  80 , loss: 0.005872900597751141
+Epoch  84 , loss: 0.0025376316625624895
+Epoch  88 , loss: 0.003512486582621932
+Epoch  92 , loss: 0.02986028976738453
+Epoch  96 , loss: 0.2014576941728592
+Epoch  100 , loss: 0.0025743511505424976
+Epoch  104 , loss: 8.497991802869365e-05
+Epoch  108 , loss: 0.005420563742518425
+Epoch  112 , loss: 0.02254558354616165
+Epoch  116 , loss: 0.04772958904504776
+Epoch  120 , loss: 0.10688084363937378
+Epoch  124 , loss: 0.15555018186569214
+Epoch  128 , loss: 0.09469448029994965
+Epoch  132 , loss: 0.006098072975873947
+Epoch  136 , loss: 0.16543301939964294
+Epoch  140 , loss: 0.03179482743144035
+Epoch  144 , loss: 0.02469594217836857
+Epoch  148 , loss: 0.4946556091308594
+Epoch  152 , loss: 0.038135942071676254
+Epoch  156 , loss: 0.00406978465616703
+Epoch  160 , loss: 0.002157053677365184
+Epoch  164 , loss: 0.0009769144235178828
+Epoch  168 , loss: 8.57599479786586e-06
+Epoch  172 , loss: 0.33526426553726196
+Epoch  176 , loss: 0.15336161851882935
+Epoch  180 , loss: 0.01868503913283348
+Epoch  184 , loss: 0.41829913854599
+Epoch  188 , loss: 0.014193173497915268
+Epoch  192 , loss: 0.005563407205045223
+Epoch  196 , loss: 0.061249323189258575
+Epoch  200 , loss: 0.043121736496686935
+Epoch  204 , loss: 0.02342514507472515
+Epoch  208 , loss: 0.0019651688635349274
+Epoch  212 , loss: 0.03875129297375679
+Epoch  216 , loss: 0.04287508875131607
+Epoch  220 , loss: 0.19773682951927185
+Epoch  224 , loss: 0.02680915780365467
+Epoch  228 , loss: 0.029250958934426308
+Epoch  232 , loss: 0.007256230805069208
+Epoch  236 , loss: 0.0337156243622303
+Epoch  240 , loss: 0.08285506814718246
+Epoch  244 , loss: 0.13826391100883484
+Epoch  248 , loss: 0.1555602103471756
+Epoch  252 , loss: 0.0011293892748653889
+Epoch  256 , loss: 0.004974556155502796
+Epoch  260 , loss: 0.19640684127807617
+Epoch  264 , loss: 0.0024205155204981565
+Epoch  268 , loss: 0.015854015946388245
+Epoch  272 , loss: 0.10312186926603317
+Epoch  276 , loss: 0.009672821499407291
+Epoch  280 , loss: 0.039113715291023254
+Epoch  284 , loss: 0.027501199394464493
+Epoch  288 , loss: 0.0003056734858546406
+Epoch  292 , loss: 0.00014015199849382043
+Epoch  296 , loss: 0.06935323029756546
+Epoch  300 , loss: 0.005983898416161537
+Epoch  304 , loss: 0.07497523725032806
+Epoch  308 , loss: 0.09003716707229614
+Epoch  312 , loss: 0.01519088726490736
+Epoch  316 , loss: 0.013015246950089931
+Epoch  320 , loss: 0.039609991014003754
+Epoch  324 , loss: 0.01931379921734333
+Epoch  328 , loss: 0.03282369673252106
+Epoch  332 , loss: 0.034310903400182724
+Epoch  336 , loss: 6.933629720151657e-06
+Epoch  340 , loss: 0.00027655158191919327
+Epoch  344 , loss: 0.06211977079510689
+Epoch  348 , loss: 0.0005365139222703874
+Epoch  352 , loss: 0.07154242694377899
+Epoch  356 , loss: 0.17234718799591064
+Epoch  360 , loss: 0.05276409536600113
+Epoch  364 , loss: 0.027637355029582977
+Epoch  368 , loss: 0.003920798189938068
+Epoch  372 , loss: 0.4281197786331177
+Epoch  376 , loss: 0.0013234112411737442
+Epoch  380 , loss: 0.5917993783950806
+Epoch  384 , loss: 0.023595957085490227
+Epoch  388 , loss: 0.06695950031280518
+Epoch  392 , loss: 0.21441340446472168
+Epoch  396 , loss: 0.08278142660856247
+Epoch  400 , loss: 0.021716013550758362
+Epoch  404 , loss: 0.0001978310610866174
+Epoch  408 , loss: 0.16437625885009766
+Epoch  412 , loss: 0.00036698777694255114
+Epoch  416 , loss: 0.0986272469162941
+Epoch  420 , loss: 0.28398531675338745
+Epoch  424 , loss: 0.007037221919745207
+Epoch  428 , loss: 0.03673696890473366
+Epoch  432 , loss: 0.4332389831542969
+Epoch  436 , loss: 0.000533331127371639
+Epoch  440 , loss: 0.29246774315834045
+Epoch  444 , loss: 0.004349299240857363
+Epoch  448 , loss: 0.11300614476203918
+Epoch  452 , loss: 0.047183867543935776
+Epoch  456 , loss: 0.12451619654893875
+Epoch  460 , loss: 0.015635089948773384
+Epoch  464 , loss: 0.030607599765062332
+Epoch  468 , loss: 0.030308321118354797
+Epoch  472 , loss: 0.06147857382893562
+Epoch  476 , loss: 0.04117469862103462
+Epoch  480 , loss: 1.3652631423610728e-05
+Epoch  484 , loss: 0.009657774120569229
+Epoch  488 , loss: 0.1264125257730484
+Epoch  492 , loss: 0.012330874800682068
+Epoch  496 , loss: 0.1059451475739479
+Epoch  500 , loss: 0.1872849315404892
+Epoch  504 , loss: 0.049341171979904175
+Epoch  508 , loss: 0.06330770999193192
+Epoch  512 , loss: 0.00019817083375528455
+Epoch  516 , loss: 0.11712164431810379
+Epoch  520 , loss: 0.006489374674856663
+Epoch  524 , loss: 2.7767871870310046e-05
+Epoch  528 , loss: 0.09683336317539215
+Epoch  532 , loss: 0.020911764353513718
+Epoch  536 , loss: 0.13416874408721924
+Epoch  540 , loss: 0.048841364681720734
+Epoch  544 , loss: 0.08364912122488022
+Epoch  548 , loss: 0.12617388367652893
+Epoch  552 , loss: 0.18076609075069427
+Epoch  556 , loss: 0.0018727113492786884
+Epoch  560 , loss: 0.006710436660796404
+Epoch  564 , loss: 0.02719004638493061
+Epoch  568 , loss: 0.025614621117711067
+Epoch  572 , loss: 0.0033185051288455725
+Epoch  576 , loss: 0.03422868251800537
+Epoch  580 , loss: 1.2015023457934149e-05
+Epoch  584 , loss: 0.004255581647157669
+Epoch  588 , loss: 0.0160444974899292
+Epoch  592 , loss: 0.0898650586605072
+Epoch  596 , loss: 0.01620122417807579
+Reached end
+Predicted tensor([0.7682, 0.2318]) Actual tensor([1., 0.])
+Predicted tensor([0.4905, 0.5094]) Actual tensor([0., 1.])
+Predicted tensor([0.1866, 0.8133]) Actual tensor([0., 1.])
+Predicted tensor([0.1860, 0.8139]) Actual tensor([0., 1.])
+Predicted tensor([0.7853, 0.2150]) Actual tensor([1., 0.])
+Predicted tensor([0.7613, 0.2390]) Actual tensor([1., 0.])
+Predicted tensor([0.2979, 0.7024]) Actual tensor([0., 1.])
+Predicted tensor([0.4598, 0.5395]) Actual tensor([0., 1.])
+Predicted tensor([0.1327, 0.8668]) Actual tensor([0., 1.])
+Predicted tensor([0.6761, 0.3233]) Actual tensor([0., 1.])
+Predicted tensor([0.9181, 0.0816]) Actual tensor([1., 0.])
+Predicted tensor([0.9649, 0.0351]) Actual tensor([1., 0.])
+Predicted tensor([0.4563, 0.5442]) Actual tensor([1., 0.])
+Predicted tensor([0.8001, 0.1996]) Actual tensor([1., 0.])
+Predicted tensor([0.7756, 0.2242]) Actual tensor([1., 0.])
+Predicted tensor([0.5584, 0.4415]) Actual tensor([0., 1.])
+Predicted tensor([0.0681, 0.9309]) Actual tensor([0., 1.])
+Predicted tensor([0.2253, 0.7741]) Actual tensor([0., 1.])
+Predicted tensor([0.7021, 0.2979]) Actual tensor([1., 0.])
+Predicted tensor([0.8451, 0.1552]) Actual tensor([1., 0.])
+Predicted tensor([0.4229, 0.5767]) Actual tensor([0., 1.])
+Predicted tensor([0.9667, 0.0334]) Actual tensor([1., 0.])
+Predicted tensor([0.0200, 0.9794]) Actual tensor([0., 1.])
+Predicted tensor([0.0862, 0.9140]) Actual tensor([0., 1.])
+Predicted tensor([0.6902, 0.3092]) Actual tensor([1., 0.])
+Predicted tensor([0.1228, 0.8763]) Actual tensor([0., 1.])
+Predicted tensor([0.7607, 0.2392]) Actual tensor([1., 0.])
+Predicted tensor([-0.0058,  1.0062]) Actual tensor([0., 1.])
+Predicted tensor([0.9868, 0.0128]) Actual tensor([1., 0.])
+Predicted tensor([0.2859, 0.7138]) Actual tensor([0., 1.])
+Predicted tensor([0.4363, 0.5628]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1511, -0.1511]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0193, -0.0193]) Actual tensor([1., 0.])
+Predicted tensor([0.4489, 0.5513]) Actual tensor([0., 1.])
+Predicted tensor([0.5883, 0.4109]) Actual tensor([0., 1.])
+Predicted tensor([0.3699, 0.6292]) Actual tensor([1., 0.])
+Predicted tensor([0.4753, 0.5250]) Actual tensor([0., 1.])
+Predicted tensor([0.3162, 0.6829]) Actual tensor([0., 1.])
+Predicted tensor([0.9034, 0.0966]) Actual tensor([1., 0.])
+Predicted tensor([0.2720, 0.7284]) Actual tensor([0., 1.])
+Predicted tensor([0.5507, 0.4491]) Actual tensor([1., 0.])
+Predicted tensor([0.4506, 0.5498]) Actual tensor([0., 1.])
+Predicted tensor([0.9937, 0.0065]) Actual tensor([1., 0.])
+Predicted tensor([0.7595, 0.2416]) Actual tensor([1., 0.])
+Predicted tensor([0.2036, 0.7974]) Actual tensor([0., 1.])
+Predicted tensor([0.0871, 0.9127]) Actual tensor([0., 1.])
+Predicted tensor([0.3220, 0.6779]) Actual tensor([0., 1.])
+Predicted tensor([0.4791, 0.5220]) Actual tensor([1., 0.])
+Predicted tensor([0.5338, 0.4667]) Actual tensor([1., 0.])
+Predicted tensor([0.6741, 0.3256]) Actual tensor([1., 0.])
+Predicted tensor([0.7985, 0.2024]) Actual tensor([1., 0.])
+Predicted tensor([0.4530, 0.5471]) Actual tensor([1., 0.])
+Predicted tensor([0.3801, 0.6201]) Actual tensor([0., 1.])
+Predicted tensor([0.9467, 0.0527]) Actual tensor([1., 0.])
+Predicted tensor([0.3872, 0.6123]) Actual tensor([0., 1.])
+Predicted tensor([0.2012, 0.7985]) Actual tensor([0., 1.])
+Predicted tensor([0.2227, 0.7768]) Actual tensor([0., 1.])
+Predicted tensor([0.9397, 0.0602]) Actual tensor([1., 0.])
+Predicted tensor([0.2061, 0.7936]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2342, -0.2340]) Actual tensor([1., 0.])
+Predicted tensor([0.4957, 0.5039]) Actual tensor([1., 0.])
+Predicted tensor([0.6946, 0.3053]) Actual tensor([1., 0.])
+Predicted tensor([ 1.4557, -0.4553]) Actual tensor([1., 0.])
+Predicted tensor([0.5923, 0.4075]) Actual tensor([1., 0.])
+Predicted tensor([0.6245, 0.3751]) Actual tensor([0., 1.])
+Predicted tensor([0.5272, 0.4723]) Actual tensor([0., 1.])
+Predicted tensor([0.7469, 0.2527]) Actual tensor([1., 0.])
+Predicted tensor([0.3217, 0.6785]) Actual tensor([1., 0.])
+Predicted tensor([0.0735, 0.9265]) Actual tensor([0., 1.])
+Predicted tensor([0.4433, 0.5565]) Actual tensor([0., 1.])
+Predicted tensor([0.1683, 0.8311]) Actual tensor([0., 1.])
+Predicted tensor([0.5357, 0.4641]) Actual tensor([0., 1.])
+Predicted tensor([-0.0567,  1.0569]) Actual tensor([0., 1.])
+Predicted tensor([0.2698, 0.7295]) Actual tensor([0., 1.])
+Predicted tensor([0.6917, 0.3082]) Actual tensor([1., 0.])
+Predicted tensor([0.6471, 0.3526]) Actual tensor([1., 0.])
+Predicted tensor([ 1.3761, -0.3760]) Actual tensor([1., 0.])
+Predicted tensor([0.1991, 0.7998]) Actual tensor([0., 1.])
+Predicted tensor([0.9710, 0.0289]) Actual tensor([1., 0.])
+Predicted tensor([0.2708, 0.7285]) Actual tensor([0., 1.])
+Predicted tensor([0.7028, 0.2974]) Actual tensor([1., 0.])
+Predicted tensor([0.8911, 0.1089]) Actual tensor([1., 0.])
+Predicted tensor([0.2488, 0.7514]) Actual tensor([0., 1.])
+Predicted tensor([-0.0568,  1.0575]) Actual tensor([0., 1.])
+Predicted tensor([0.0520, 0.9477]) Actual tensor([1., 0.])
+Predicted tensor([0.6137, 0.3856]) Actual tensor([0., 1.])
+Predicted tensor([0.7817, 0.2181]) Actual tensor([1., 0.])
+Predicted tensor([0.7333, 0.2667]) Actual tensor([1., 0.])
+Predicted tensor([-0.1153,  1.1147]) Actual tensor([0., 1.])
+Predicted tensor([0.3259, 0.6743]) Actual tensor([1., 0.])
+Predicted tensor([0.0879, 0.9112]) Actual tensor([0., 1.])
+Predicted tensor([0.7356, 0.2642]) Actual tensor([1., 0.])
+Predicted tensor([-0.0150,  1.0144]) Actual tensor([0., 1.])
+Predicted tensor([0.5681, 0.4318]) Actual tensor([1., 0.])
+Predicted tensor([0.9469, 0.0525]) Actual tensor([0., 1.])
+Predicted tensor([0.9132, 0.0867]) Actual tensor([1., 0.])
+Predicted tensor([0.8998, 0.1005]) Actual tensor([1., 0.])
+Predicted tensor([0.2451, 0.7542]) Actual tensor([0., 1.])
+Predicted tensor([0.4078, 0.5911]) Actual tensor([1., 0.])
+Predicted tensor([0.8278, 0.1718]) Actual tensor([1., 0.])
+Predicted tensor([0.7776, 0.2229]) Actual tensor([1., 0.])
+Predicted tensor([0.7360, 0.2639]) Actual tensor([1., 0.])
+Predicted tensor([0.0275, 0.9716]) Actual tensor([0., 1.])
+Predicted tensor([0.3441, 0.6553]) Actual tensor([1., 0.])
+Predicted tensor([0.1362, 0.8628]) Actual tensor([0., 1.])
+Predicted tensor([0.3752, 0.6232]) Actual tensor([1., 0.])
+Predicted tensor([0.2934, 0.7062]) Actual tensor([0., 1.])
+Predicted tensor([0.3374, 0.6615]) Actual tensor([0., 1.])
+Predicted tensor([0.8286, 0.1712]) Actual tensor([1., 0.])
+Predicted tensor([0.2652, 0.7342]) Actual tensor([0., 1.])
+Predicted tensor([0.9622, 0.0384]) Actual tensor([1., 0.])
+Predicted tensor([0.4891, 0.5103]) Actual tensor([1., 0.])
+Predicted tensor([0.3952, 0.6059]) Actual tensor([1., 0.])
+Predicted tensor([0.4463, 0.5535]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1411, -0.1411]) Actual tensor([1., 0.])
+Predicted tensor([0.7676, 0.2321]) Actual tensor([1., 0.])
+Predicted tensor([0.4054, 0.5952]) Actual tensor([1., 0.])
+Predicted tensor([0.0319, 0.9678]) Actual tensor([0., 1.])
+Predicted tensor([0.9176, 0.0823]) Actual tensor([1., 0.])
+Predicted tensor([0.0799, 0.9198]) Actual tensor([0., 1.])
+Predicted tensor([0.4921, 0.5077]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1182, -0.1181]) Actual tensor([1., 0.])
+Predicted tensor([0.3808, 0.6196]) Actual tensor([1., 0.])
+Predicted tensor([-0.0844,  1.0840]) Actual tensor([0., 1.])
+Predicted tensor([0.9020, 0.0978]) Actual tensor([1., 0.])
+Predicted tensor([0.6737, 0.3257]) Actual tensor([1., 0.])
+Predicted tensor([0.6327, 0.3668]) Actual tensor([1., 0.])
+Predicted tensor([0.0567, 0.9436]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0242, -0.0245]) Actual tensor([1., 0.])
+Predicted tensor([0.4258, 0.5738]) Actual tensor([0., 1.])
+Predicted tensor([0.8481, 0.1520]) Actual tensor([1., 0.])
+Predicted tensor([-0.0853,  1.0834]) Actual tensor([0., 1.])
+Predicted tensor([0.0524, 0.9477]) Actual tensor([0., 1.])
+Predicted tensor([ 1.3281, -0.3278]) Actual tensor([1., 0.])
+Predicted tensor([0.4123, 0.5887]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0965, -0.0965]) Actual tensor([1., 0.])
+Predicted tensor([0.2893, 0.7108]) Actual tensor([0., 1.])
+Predicted tensor([-0.1504,  1.1503]) Actual tensor([0., 1.])
+Predicted tensor([0.0162, 0.9837]) Actual tensor([0., 1.])
+Predicted tensor([0.4001, 0.6003]) Actual tensor([0., 1.])
+Predicted tensor([0.6030, 0.3973]) Actual tensor([1., 0.])
+Predicted tensor([0.5782, 0.4215]) Actual tensor([1., 0.])
+Predicted tensor([0.1349, 0.8656]) Actual tensor([0., 1.])
+Predicted tensor([0.3384, 0.6617]) Actual tensor([0., 1.])
+Predicted tensor([0.2733, 0.7271]) Actual tensor([0., 1.])
+Predicted tensor([0.2556, 0.7445]) Actual tensor([0., 1.])
+Predicted tensor([0.2577, 0.7418]) Actual tensor([0., 1.])
+Predicted tensor([0.4466, 0.5527]) Actual tensor([1., 0.])
+Predicted tensor([0.2131, 0.7855]) Actual tensor([0., 1.])
+Predicted tensor([0.7140, 0.2857]) Actual tensor([1., 0.])
+Predicted tensor([0.7547, 0.2448]) Actual tensor([1., 0.])
+Predicted tensor([0.0506, 0.9494]) Actual tensor([0., 1.])
+Predicted tensor([0.0026, 0.9966]) Actual tensor([0., 1.])
+Predicted tensor([0.4045, 0.5942]) Actual tensor([0., 1.])
+Predicted tensor([0.6563, 0.3428]) Actual tensor([1., 0.])
+Predicted tensor([0.5987, 0.4009]) Actual tensor([1., 0.])
+Predicted tensor([0.9877, 0.0128]) Actual tensor([1., 0.])
+Predicted tensor([0.5042, 0.4954]) Actual tensor([1., 0.])
+Predicted tensor([0.0404, 0.9591]) Actual tensor([0., 1.])
+Predicted tensor([0.3910, 0.6085]) Actual tensor([0., 1.])
+Predicted tensor([0.9165, 0.0832]) Actual tensor([1., 0.])
+Predicted tensor([ 1.2693, -0.2692]) Actual tensor([1., 0.])
+Predicted tensor([0.3842, 0.6161]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2286, -0.2288]) Actual tensor([1., 0.])
+Predicted tensor([0.1308, 0.8691]) Actual tensor([0., 1.])
+Predicted tensor([0.1984, 0.8016]) Actual tensor([0., 1.])
+Predicted tensor([0.6384, 0.3630]) Actual tensor([1., 0.])
+Predicted tensor([0.3941, 0.6058]) Actual tensor([0., 1.])
+Predicted tensor([0.3559, 0.6438]) Actual tensor([1., 0.])
+Predicted tensor([0.0746, 0.9259]) Actual tensor([0., 1.])
+Predicted tensor([0.9273, 0.0722]) Actual tensor([1., 0.])
+Predicted tensor([0.2096, 0.7904]) Actual tensor([0., 1.])
+Predicted tensor([0.0470, 0.9748]) Actual tensor([0., 1.])
+Predicted tensor([9.9916e-01, 6.3020e-04]) Actual tensor([1., 0.])
+Predicted tensor([0.3529, 0.6471]) Actual tensor([0., 1.])
+Predicted tensor([0.1841, 0.8150]) Actual tensor([0., 1.])
+Predicted tensor([0.8039, 0.1959]) Actual tensor([1., 0.])
+Predicted tensor([-0.0395,  1.0395]) Actual tensor([0., 1.])
+Predicted tensor([0.5579, 0.4417]) Actual tensor([1., 0.])
+Predicted tensor([-0.2080,  1.2070]) Actual tensor([0., 1.])
+Predicted tensor([0.0943, 0.9060]) Actual tensor([0., 1.])
+Predicted tensor([0.5022, 0.4977]) Actual tensor([1., 0.])
+Predicted tensor([0.8027, 0.1980]) Actual tensor([1., 0.])
+Predicted tensor([0.3320, 0.6670]) Actual tensor([0., 1.])
+Predicted tensor([0.3187, 0.6812]) Actual tensor([1., 0.])
+Predicted tensor([0.3035, 0.6963]) Actual tensor([0., 1.])
+Predicted tensor([0.1987, 0.8012]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0320, -0.0318]) Actual tensor([1., 0.])
+Predicted tensor([0.6180, 0.3811]) Actual tensor([1., 0.])
+Predicted tensor([0.4003, 0.5992]) Actual tensor([0., 1.])
+Predicted tensor([0.1229, 0.8758]) Actual tensor([0., 1.])
+Predicted tensor([0.7942, 0.2058]) Actual tensor([1., 0.])
+Predicted tensor([-0.1616,  1.1621]) Actual tensor([0., 1.])
+Predicted tensor([0.4820, 0.5182]) Actual tensor([0., 1.])
+Predicted tensor([-0.1228,  1.1220]) Actual tensor([0., 1.])
+Predicted tensor([0.8402, 0.1593]) Actual tensor([1., 0.])
+Predicted tensor([0.8062, 0.1936]) Actual tensor([1., 0.])
+Predicted tensor([0.4557, 0.5447]) Actual tensor([1., 0.])
+Predicted tensor([0.1755, 0.8244]) Actual tensor([0., 1.])
+Predicted tensor([0.6558, 0.3439]) Actual tensor([1., 0.])
+Predicted tensor([0.1781, 0.8227]) Actual tensor([0., 1.])
+Predicted tensor([0.5072, 0.4920]) Actual tensor([1., 0.])
+Predicted tensor([0.0691, 0.9304]) Actual tensor([0., 1.])
+Predicted tensor([0.3477, 0.6521]) Actual tensor([0., 1.])
+Predicted tensor([0.7067, 0.2932]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0250, -0.0253]) Actual tensor([1., 0.])
+Predicted tensor([0.8368, 0.1632]) Actual tensor([1., 0.])
+Predicted tensor([0.5974, 0.4020]) Actual tensor([1., 0.])
+Predicted tensor([0.7329, 0.2672]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0366, -0.0365]) Actual tensor([1., 0.])
+Predicted tensor([0.1346, 0.8653]) Actual tensor([0., 1.])
+Predicted tensor([0.2608, 0.7386]) Actual tensor([0., 1.])
+Predicted tensor([0.6571, 0.3434]) Actual tensor([1., 0.])
+Predicted tensor([0.2566, 0.7436]) Actual tensor([0., 1.])
+Predicted tensor([0.3808, 0.6196]) Actual tensor([0., 1.])
+Predicted tensor([0.1890, 0.8101]) Actual tensor([1., 0.])
+Predicted tensor([0.6744, 0.3253]) Actual tensor([0., 1.])
+Predicted tensor([0.1206, 0.8789]) Actual tensor([0., 1.])
+Predicted tensor([0.8616, 0.1384]) Actual tensor([1., 0.])
+Predicted tensor([0.1798, 0.8206]) Actual tensor([1., 0.])
+Predicted tensor([0.6130, 0.3874]) Actual tensor([1., 0.])
+Predicted tensor([0.9057, 0.0941]) Actual tensor([1., 0.])
+Predicted tensor([0.8799, 0.1201]) Actual tensor([1., 0.])
+Predicted tensor([0.0421, 0.9575]) Actual tensor([0., 1.])
+Predicted tensor([0.6678, 0.3319]) Actual tensor([1., 0.])
+Predicted tensor([0.2846, 0.7150]) Actual tensor([1., 0.])
+Predicted tensor([0.7708, 0.2286]) Actual tensor([1., 0.])
+Predicted tensor([0.1369, 0.8628]) Actual tensor([0., 1.])
+Predicted tensor([0.1090, 0.8914]) Actual tensor([0., 1.])
+Predicted tensor([0.4287, 0.5706]) Actual tensor([0., 1.])
+Predicted tensor([0.3063, 0.6930]) Actual tensor([0., 1.])
+Predicted tensor([0.8175, 0.1822]) Actual tensor([1., 0.])
+Predicted tensor([0.6863, 0.3133]) Actual tensor([1., 0.])
+Predicted tensor([0.0025, 0.9965]) Actual tensor([0., 1.])
+Predicted tensor([0.5030, 0.4965]) Actual tensor([1., 0.])
+Predicted tensor([0.0140, 0.9856]) Actual tensor([0., 1.])
+Predicted tensor([0.5093, 0.4909]) Actual tensor([0., 1.])
+Predicted tensor([0.3176, 0.6814]) Actual tensor([0., 1.])
+Predicted tensor([0.2663, 0.7339]) Actual tensor([0., 1.])
+Predicted tensor([0.1582, 0.8417]) Actual tensor([0., 1.])
+Predicted tensor([0.6196, 0.3807]) Actual tensor([1., 0.])
+Predicted tensor([0.2670, 0.7324]) Actual tensor([0., 1.])
+Predicted tensor([0.1351, 0.8644]) Actual tensor([0., 1.])
+Predicted tensor([0.7896, 0.2103]) Actual tensor([1., 0.])
+Predicted tensor([0.7754, 0.2244]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0078, -0.0075]) Actual tensor([1., 0.])
+Predicted tensor([0.9840, 0.0159]) Actual tensor([0., 1.])
+Predicted tensor([0.1115, 0.8879]) Actual tensor([1., 0.])
+Predicted tensor([0.3382, 0.6611]) Actual tensor([0., 1.])
+Predicted tensor([0.3114, 0.6885]) Actual tensor([0., 1.])
+Predicted tensor([0.2620, 0.7380]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0735, -0.0738]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0804, -0.0805]) Actual tensor([1., 0.])
+Predicted tensor([0.8956, 0.1041]) Actual tensor([1., 0.])
+Predicted tensor([0.3402, 0.6593]) Actual tensor([0., 1.])
+Predicted tensor([0.3960, 0.6065]) Actual tensor([0., 1.])
+Predicted tensor([0.0654, 0.9339]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0272, -0.0269]) Actual tensor([1., 0.])
+Predicted tensor([0.0146, 0.9850]) Actual tensor([0., 1.])
+Predicted tensor([0.2309, 0.7685]) Actual tensor([0., 1.])
+Predicted tensor([0.8371, 0.1621]) Actual tensor([1., 0.])
+Predicted tensor([0.3993, 0.6004]) Actual tensor([0., 1.])
+Predicted tensor([0.9585, 0.0417]) Actual tensor([1., 0.])
+Predicted tensor([0.5608, 0.4391]) Actual tensor([1., 0.])
+Predicted tensor([0.5135, 0.4873]) Actual tensor([1., 0.])
+Predicted tensor([0.1896, 0.8104]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1528, -0.1526]) Actual tensor([1., 0.])
+Predicted tensor([0.6788, 0.3208]) Actual tensor([0., 1.])
+Predicted tensor([0.2639, 0.7366]) Actual tensor([0., 1.])
+Predicted tensor([0.2703, 0.7294]) Actual tensor([0., 1.])
+Predicted tensor([0.4820, 0.5181]) Actual tensor([0., 1.])
+Predicted tensor([0.7003, 0.2996]) Actual tensor([1., 0.])
+Predicted tensor([0.9010, 0.0996]) Actual tensor([1., 0.])
+Predicted tensor([0.1424, 0.8581]) Actual tensor([0., 1.])
+Predicted tensor([0.8612, 0.1386]) Actual tensor([1., 0.])
+Predicted tensor([0.0659, 0.9331]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0236, -0.0235]) Actual tensor([1., 0.])
+Predicted tensor([0.7635, 0.2360]) Actual tensor([1., 0.])
+Predicted tensor([0.7804, 0.2197]) Actual tensor([0., 1.])
+Predicted tensor([-0.0081,  1.0072]) Actual tensor([0., 1.])
+Predicted tensor([0.9895, 0.0107]) Actual tensor([1., 0.])
+Predicted tensor([0.6373, 0.3619]) Actual tensor([1., 0.])
+Predicted tensor([0.9184, 0.0819]) Actual tensor([1., 0.])
+Predicted tensor([0.4930, 0.5071]) Actual tensor([0., 1.])
+Predicted tensor([0.6858, 0.3146]) Actual tensor([1., 0.])
+Predicted tensor([0.1367, 0.8621]) Actual tensor([0., 1.])
+Predicted tensor([0.1530, 0.8469]) Actual tensor([0., 1.])
+Predicted tensor([0.8933, 0.1068]) Actual tensor([1., 0.])
+Predicted tensor([0.8482, 0.1518]) Actual tensor([1., 0.])
+Predicted tensor([0.0705, 0.9287]) Actual tensor([0., 1.])
+Predicted tensor([0.2431, 0.7577]) Actual tensor([0., 1.])
+Predicted tensor([0.2763, 0.7219]) Actual tensor([0., 1.])
+Predicted tensor([0.4959, 0.5035]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0980, -0.0981]) Actual tensor([1., 0.])
+Predicted tensor([0.6450, 0.3549]) Actual tensor([1., 0.])
+Predicted tensor([0.0958, 0.9039]) Actual tensor([0., 1.])
+Predicted tensor([0.3181, 0.6816]) Actual tensor([0., 1.])
+Predicted tensor([0.9146, 0.0854]) Actual tensor([1., 0.])
+Predicted tensor([0.1406, 0.8590]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0293, -0.0296]) Actual tensor([1., 0.])
+Predicted tensor([9.4101e-04, 9.9798e-01]) Actual tensor([0., 1.])
+Predicted tensor([0.1213, 0.8781]) Actual tensor([0., 1.])
+Predicted tensor([0.8514, 0.1490]) Actual tensor([1., 0.])
+Predicted tensor([0.5828, 0.4165]) Actual tensor([1., 0.])
+Predicted tensor([0.6223, 0.3782]) Actual tensor([0., 1.])
+Predicted tensor([0.1398, 0.8596]) Actual tensor([0., 1.])
+Predicted tensor([0.9989, 0.0011]) Actual tensor([1., 0.])
+Predicted tensor([0.0444, 0.9558]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0217, -0.0222]) Actual tensor([1., 0.])
+Predicted tensor([0.7776, 0.2220]) Actual tensor([1., 0.])
+Predicted tensor([0.5528, 0.4476]) Actual tensor([0., 1.])
+Predicted tensor([0.6108, 0.3896]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1311, -0.1314]) Actual tensor([1., 0.])
+Predicted tensor([0.6049, 0.3947]) Actual tensor([0., 1.])
+Predicted tensor([0.2406, 0.7594]) Actual tensor([0., 1.])
+Predicted tensor([-0.2610,  1.2593]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1322, -0.1320]) Actual tensor([1., 0.])
+Predicted tensor([0.2612, 0.7383]) Actual tensor([0., 1.])
+Predicted tensor([0.2071, 0.8048]) Actual tensor([1., 0.])
+Predicted tensor([0.6588, 0.3410]) Actual tensor([1., 0.])
+Predicted tensor([0.4555, 0.5442]) Actual tensor([1., 0.])
+Predicted tensor([0.6393, 0.3609]) Actual tensor([1., 0.])
+Predicted tensor([0.1539, 0.8456]) Actual tensor([0., 1.])
+Predicted tensor([0.0279, 0.9722]) Actual tensor([1., 0.])
+Predicted tensor([0.0191, 0.9796]) Actual tensor([0., 1.])
+Predicted tensor([0.2623, 0.7372]) Actual tensor([0., 1.])
+Predicted tensor([0.5388, 0.4610]) Actual tensor([0., 1.])
+Predicted tensor([0.5343, 0.4650]) Actual tensor([1., 0.])
+Predicted tensor([0.1988, 0.8007]) Actual tensor([0., 1.])
+Predicted tensor([0.7288, 0.2701]) Actual tensor([1., 0.])
+Predicted tensor([0.8203, 0.1791]) Actual tensor([1., 0.])
+Predicted tensor([0.5728, 0.4266]) Actual tensor([1., 0.])
+Predicted tensor([-0.1395,  1.1388]) Actual tensor([1., 0.])
+Predicted tensor([0.6297, 0.3699]) Actual tensor([1., 0.])
+Predicted tensor([0.3211, 0.6790]) Actual tensor([0., 1.])
+Predicted tensor([0.3975, 0.6024]) Actual tensor([0., 1.])
+Predicted tensor([0.5577, 0.4418]) Actual tensor([0., 1.])
+Predicted tensor([0.2333, 0.7674]) Actual tensor([0., 1.])
+Predicted tensor([0.9827, 0.0175]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0276, -0.0282]) Actual tensor([1., 0.])
+Predicted tensor([0.6964, 0.3031]) Actual tensor([1., 0.])
+Predicted tensor([0.9016, 0.0983]) Actual tensor([1., 0.])
+Predicted tensor([0.4541, 0.5454]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0166, -0.0165]) Actual tensor([1., 0.])
+Predicted tensor([0.2668, 0.7332]) Actual tensor([1., 0.])
+Predicted tensor([0.6362, 0.3643]) Actual tensor([1., 0.])
+Predicted tensor([0.7823, 0.2176]) Actual tensor([1., 0.])
+Predicted tensor([0.2743, 0.7251]) Actual tensor([0., 1.])
+Predicted tensor([0.0143, 0.9849]) Actual tensor([0., 1.])
+Predicted tensor([-0.0190,  1.0187]) Actual tensor([0., 1.])
+Predicted tensor([0.1056, 0.8937]) Actual tensor([0., 1.])
+Predicted tensor([0.3038, 0.6962]) Actual tensor([0., 1.])
+Predicted tensor([0.1445, 0.8547]) Actual tensor([0., 1.])
+Predicted tensor([0.3703, 0.6295]) Actual tensor([0., 1.])
+Predicted tensor([0.8732, 0.1264]) Actual tensor([1., 0.])
+Predicted tensor([0.1116, 0.8883]) Actual tensor([0., 1.])
+Predicted tensor([0.7065, 0.2934]) Actual tensor([1., 0.])
+Predicted tensor([0.6855, 0.3148]) Actual tensor([1., 0.])
+Predicted tensor([0.8778, 0.1223]) Actual tensor([1., 0.])
+Predicted tensor([0.1739, 0.8262]) Actual tensor([0., 1.])
+Predicted tensor([0.3583, 0.6407]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0131, -0.0130]) Actual tensor([1., 0.])
+Predicted tensor([-0.0527,  1.0505]) Actual tensor([0., 1.])
+Predicted tensor([0.8719, 0.1280]) Actual tensor([1., 0.])
+Predicted tensor([-0.0486,  1.0477]) Actual tensor([0., 1.])
+Predicted tensor([-0.1560,  1.1557]) Actual tensor([0., 1.])
+Predicted tensor([0.0621, 0.9366]) Actual tensor([0., 1.])
+Predicted tensor([0.3863, 0.6132]) Actual tensor([0., 1.])
+Predicted tensor([0.7706, 0.2285]) Actual tensor([1., 0.])
+Predicted tensor([0.8093, 0.1903]) Actual tensor([0., 1.])
+Predicted tensor([0.7034, 0.2969]) Actual tensor([1., 0.])
+Predicted tensor([0.8736, 0.1263]) Actual tensor([1., 0.])
+Predicted tensor([-0.1555,  1.1549]) Actual tensor([0., 1.])
+Predicted tensor([0.0910, 0.9081]) Actual tensor([0., 1.])
+Predicted tensor([0.1345, 0.8649]) Actual tensor([0., 1.])
+Predicted tensor([0.6490, 0.3501]) Actual tensor([1., 0.])
+Predicted tensor([0.6950, 0.3049]) Actual tensor([1., 0.])
+Predicted tensor([0.4734, 0.5264]) Actual tensor([1., 0.])
+Predicted tensor([ 1.2541, -0.2541]) Actual tensor([1., 0.])
+Predicted tensor([0.6468, 0.3524]) Actual tensor([1., 0.])
+Predicted tensor([0.5622, 0.4374]) Actual tensor([0., 1.])
+Predicted tensor([0.9680, 0.0322]) Actual tensor([1., 0.])
+Predicted tensor([0.2718, 0.7275]) Actual tensor([0., 1.])
+Predicted tensor([0.6066, 0.3930]) Actual tensor([1., 0.])
+Predicted tensor([0.6491, 0.3510]) Actual tensor([1., 0.])
+Predicted tensor([ 1.3796, -0.3792]) Actual tensor([1., 0.])
+Predicted tensor([0.6572, 0.3433]) Actual tensor([1., 0.])
+Predicted tensor([0.5847, 0.4152]) Actual tensor([0., 1.])
+Predicted tensor([0.1135, 0.8863]) Actual tensor([0., 1.])
+Predicted tensor([0.9854, 0.0147]) Actual tensor([1., 0.])
+Predicted tensor([0.2490, 0.7510]) Actual tensor([0., 1.])
+Predicted tensor([0.4056, 0.5944]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0076, -0.0076]) Actual tensor([1., 0.])
+Predicted tensor([0.9311, 0.0687]) Actual tensor([1., 0.])
+Predicted tensor([0.9512, 0.0490]) Actual tensor([1., 0.])
+Predicted tensor([0.9657, 0.0347]) Actual tensor([1., 0.])
+Predicted tensor([0.8810, 0.1188]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1102, -0.1102]) Actual tensor([1., 0.])
+Predicted tensor([0.1721, 0.8268]) Actual tensor([0., 1.])
+Predicted tensor([0.4619, 0.5378]) Actual tensor([0., 1.])
+Predicted tensor([0.0059, 0.9944]) Actual tensor([0., 1.])
+Predicted tensor([0.1885, 0.8115]) Actual tensor([0., 1.])
+Predicted tensor([0.3642, 0.6346]) Actual tensor([1., 0.])
+Predicted tensor([0.4076, 0.5921]) Actual tensor([0., 1.])
+Predicted tensor([0.5887, 0.4110]) Actual tensor([0., 1.])
+Predicted tensor([0.7919, 0.2083]) Actual tensor([1., 0.])
+Predicted tensor([0.0236, 0.9762]) Actual tensor([0., 1.])
+Predicted tensor([0.5054, 0.4951]) Actual tensor([1., 0.])
+Predicted tensor([0.7300, 0.2702]) Actual tensor([1., 0.])
+Predicted tensor([0.0960, 0.9039]) Actual tensor([1., 0.])
+Predicted tensor([0.7085, 0.2915]) Actual tensor([1., 0.])
+Predicted tensor([0.3653, 0.6342]) Actual tensor([0., 1.])
+Predicted tensor([0.0375, 0.9615]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0376, -0.0376]) Actual tensor([1., 0.])
+Predicted tensor([0.1576, 0.8424]) Actual tensor([0., 1.])
+Predicted tensor([0.0144, 1.0083]) Actual tensor([0., 1.])
+Predicted tensor([0.9796, 0.0204]) Actual tensor([0., 1.])
+Predicted tensor([0.2569, 0.7426]) Actual tensor([0., 1.])
+Predicted tensor([0.6899, 0.3098]) Actual tensor([1., 0.])
+Predicted tensor([0.4082, 0.5912]) Actual tensor([0., 1.])
+Predicted tensor([0.3220, 0.6776]) Actual tensor([0., 1.])
+Predicted tensor([0.6927, 0.3069]) Actual tensor([1., 0.])
+Predicted tensor([0.4380, 0.5625]) Actual tensor([1., 0.])
+Predicted tensor([0.0109, 0.9891]) Actual tensor([0., 1.])
+Predicted tensor([0.5114, 0.4886]) Actual tensor([1., 0.])
+Predicted tensor([0.0784, 0.9206]) Actual tensor([0., 1.])
+Predicted tensor([0.4416, 0.5576]) Actual tensor([0., 1.])
+Predicted tensor([-0.0407,  1.0407]) Actual tensor([0., 1.])
+Predicted tensor([0.3709, 0.6288]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0804, -0.0805]) Actual tensor([1., 0.])
+Predicted tensor([0.2771, 0.7229]) Actual tensor([0., 1.])
+Predicted tensor([-0.0152,  1.0153]) Actual tensor([0., 1.])
+Predicted tensor([0.3486, 0.6507]) Actual tensor([0., 1.])
+Predicted tensor([0.8982, 0.1022]) Actual tensor([1., 0.])
+Predicted tensor([0.8788, 0.1215]) Actual tensor([1., 0.])
+Predicted tensor([0.6967, 0.3032]) Actual tensor([1., 0.])
+Predicted tensor([0.5828, 0.4171]) Actual tensor([1., 0.])
+Predicted tensor([0.7291, 0.2709]) Actual tensor([1., 0.])
+Predicted tensor([0.7295, 0.2702]) Actual tensor([1., 0.])
+Predicted tensor([0.9547, 0.0454]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0273, -0.0262]) Actual tensor([0., 1.])
+Predicted tensor([-0.0361,  1.0365]) Actual tensor([0., 1.])
+Predicted tensor([0.2815, 0.7179]) Actual tensor([0., 1.])
+Predicted tensor([0.7446, 0.2550]) Actual tensor([1., 0.])
+Predicted tensor([0.7477, 0.2520]) Actual tensor([1., 0.])
+Predicted tensor([0.4349, 0.5648]) Actual tensor([0., 1.])
+Predicted tensor([0.5720, 0.4279]) Actual tensor([0., 1.])
+Predicted tensor([0.1503, 0.8487]) Actual tensor([0., 1.])
+Predicted tensor([0.4404, 0.5594]) Actual tensor([0., 1.])
+Predicted tensor([0.4079, 0.5919]) Actual tensor([1., 0.])
+Predicted tensor([0.1072, 0.8924]) Actual tensor([0., 1.])
+Predicted tensor([0.3055, 0.6933]) Actual tensor([1., 0.])
+Predicted tensor([0.6739, 0.3262]) Actual tensor([1., 0.])
+Predicted tensor([0.7068, 0.2931]) Actual tensor([1., 0.])
+Predicted tensor([0.3864, 0.6139]) Actual tensor([1., 0.])
+Predicted tensor([0.1218, 0.8783]) Actual tensor([0., 1.])
+Predicted tensor([0.5628, 0.4372]) Actual tensor([1., 0.])
+Predicted tensor([0.5676, 0.4324]) Actual tensor([0., 1.])
+Predicted tensor([0.2005, 0.7984]) Actual tensor([0., 1.])
+Predicted tensor([0.2674, 0.7326]) Actual tensor([0., 1.])
+Predicted tensor([0.3202, 0.6796]) Actual tensor([0., 1.])
+Predicted tensor([-0.0172,  1.0160]) Actual tensor([0., 1.])
+Predicted tensor([0.1069, 0.8926]) Actual tensor([0., 1.])
+Predicted tensor([ 1.3648, -0.3647]) Actual tensor([1., 0.])
+Predicted tensor([0.1848, 0.8145]) Actual tensor([0., 1.])
+Predicted tensor([0.1883, 0.8110]) Actual tensor([0., 1.])
+Predicted tensor([0.0455, 0.9525]) Actual tensor([0., 1.])
+Predicted tensor([0.2037, 0.7969]) Actual tensor([0., 1.])
+Predicted tensor([0.8562, 0.1437]) Actual tensor([1., 0.])
+Predicted tensor([0.6081, 0.3905]) Actual tensor([1., 0.])
+Predicted tensor([0.0932, 0.9066]) Actual tensor([0., 1.])
+Predicted tensor([0.4886, 0.5112]) Actual tensor([1., 0.])
+Predicted tensor([0.0581, 0.9414]) Actual tensor([0., 1.])
+Predicted tensor([-0.1501,  1.1489]) Actual tensor([0., 1.])
+Predicted tensor([0.6066, 0.3934]) Actual tensor([1., 0.])
+Predicted tensor([0.1738, 0.8254]) Actual tensor([0., 1.])
+Predicted tensor([0.6674, 0.3337]) Actual tensor([1., 0.])
+Predicted tensor([0.9557, 0.0443]) Actual tensor([1., 0.])
+Predicted tensor([0.3520, 0.6482]) Actual tensor([0., 1.])
+Predicted tensor([0.2139, 0.7857]) Actual tensor([0., 1.])
+Predicted tensor([0.3452, 0.6556]) Actual tensor([1., 0.])
+Predicted tensor([0.2364, 0.7638]) Actual tensor([0., 1.])
+Predicted tensor([0.9270, 0.0732]) Actual tensor([0., 1.])
+Predicted tensor([0.4039, 0.5954]) Actual tensor([1., 0.])
+Predicted tensor([0.9087, 0.0911]) Actual tensor([1., 0.])
+Predicted tensor([0.3618, 0.6380]) Actual tensor([0., 1.])
+Predicted tensor([0.9353, 0.0647]) Actual tensor([1., 0.])
+Predicted tensor([0.6579, 0.3417]) Actual tensor([1., 0.])
+Predicted tensor([0.2320, 0.7680]) Actual tensor([0., 1.])
+Predicted tensor([0.9614, 0.0387]) Actual tensor([1., 0.])
+Predicted tensor([0.1707, 0.8295]) Actual tensor([0., 1.])
+Predicted tensor([0.7373, 0.2628]) Actual tensor([1., 0.])
+Predicted tensor([0.8887, 0.1114]) Actual tensor([1., 0.])
+Predicted tensor([-0.0096,  1.0093]) Actual tensor([0., 1.])
+Predicted tensor([0.0963, 0.9102]) Actual tensor([0., 1.])
+Predicted tensor([0.0508, 0.9487]) Actual tensor([0., 1.])
+Predicted tensor([0.2323, 0.7680]) Actual tensor([0., 1.])
+Predicted tensor([0.2652, 0.7347]) Actual tensor([0., 1.])
+Predicted tensor([0.9690, 0.0311]) Actual tensor([1., 0.])
+Predicted tensor([-0.2870,  1.2860]) Actual tensor([0., 1.])
+Predicted tensor([0.8355, 0.1646]) Actual tensor([1., 0.])
+Predicted tensor([0.0403, 0.9605]) Actual tensor([0., 1.])
+Predicted tensor([0.8614, 0.1382]) Actual tensor([1., 0.])
+Predicted tensor([-0.1294,  1.1287]) Actual tensor([0., 1.])
+Predicted tensor([0.5640, 0.4356]) Actual tensor([1., 0.])
+Predicted tensor([0.2384, 0.7613]) Actual tensor([0., 1.])
+Predicted tensor([0.3347, 0.6657]) Actual tensor([0., 1.])
+Total loss: tensor(120.2249)
+Erred on:  b kodaiña s guadaña &
+
+Erred on:  b gertu s baptizo &
+
+Erred on:  b bazka s pasto &
+
+Erred on:  b loria s gloria &
+
+Erred on:  b aingeru s escudero &
+
+Erred on:  b jendalla s deliberar &
+
+Erred on:  b koraza s sótano &
+
+Erred on:  b errepikatu s arvejilla &
+
+Erred on:  b estakura s obstáculo &
+
+Erred on:  b ünbüdü s rmbudo &
+
+Erred on:  b mantso s mostaza &
+
+Erred on:  b jipoi s jubón &
+
+Erred on:  b gareta s zarpa &
+
+Erred on:  b feble s débil &
+
+Erred on:  b maiz s repasar &
+
+Erred on:  b bezilla s arvejilla &
+
+Erred on:  b agilando s alambre &
+
+Erred on:  b enbite s sábila &
+
+Erred on:  b obeta s hospital &
+
+Erred on:  b bestia s pabellón &
+
+Erred on:  b subdiakono s duda &
+
+Erred on:  b gutizia s dedal &
+
+Erred on:  b abako s jarro &
+
+Erred on:  b nafilhar s zahorí &
+
+Erred on:  b bal s alabanza &
+
+Erred on:  b siklo s vaho &
+
+Erred on:  b kastor s bastón &
+
+Erred on:  b subdiakono s colerina &
+
+Erred on:  b marka s cruz &
+
+Erred on:  b jünpürü s enebro &
+
+Erred on:  b dantza s ducado &
+
+Erred on:  b soslai s solo &
+
+Erred on:  b bortitz s fuerte &
+
+Erred on:  b trezeba s pesebre &
+
+Erred on:  b erregela s orégano &
+
+Erred on:  b ezkarpi s esparcir &
+
+Erred on:  b txarro s jarro &
+
+Erred on:  b txiko s estanco &
+
+Erred on:  b bapo s guapo &
+
+Erred on:  b gailiko s vallico &
+
+Erred on:  b xahu s sano &
+
+Erred on:  b betelu s agudo &
+
+Erred on:  b errubi s ya &
+
+Erred on:  b gambara s garrapata &
+
+Erred on:  b dabantail s delantal &
+
+Erred on:  b erregu s reina &
+
+Erred on:  b ipuro s enebro &
+
+Erred on:  b agrabiatu s alquitrán &
+
+Erred on:  b garau s oratorio &
+
+Erred on:  b aiuta s hiena &
+
+Erred on:  b txinizta s hiniesta &
+
+Erred on:  b bedeinkatu s tacón &
+
+Erred on:  b ule s hule &
+
+Erred on:  b parril s barril &
+
+Erred on:  b estañu s estéreo &
+
+Erred on:  b bukatu s acabar &
+
+Erred on:  b garmu s vara &
+
+Erred on:  b erdeiñu s desdeño &
+
+Erred on:  b talo s paraíso &
+
+Erred on:  b bultza s impulso &
+
+Erred on:  b eliza s iglesia &
+
+Erred on:  b zaurin s barra &
+
+Erred on:  b estañu s elevado &
+
+Erred on:  b mendu s juego &
+
+Erred on:  b bazko s pascua &
+
+Erred on:  b gatabut s obispo &
+
+Erred on:  b maiorana s bajado &
+
+Erred on:  b mantal s delantal &
+
+Erred on:  b ütis s trenza &
+
+[[210  42]
+ [ 27 228]]
+F1: 0.8685714285714287
+(array([0.88607595, 0.84444444]), array([0.83333333, 0.89411765]), array([0.85889571, 0.86857143]), array([252, 255]))
+252 255
+237 270
+438 507
+Accuracy: 0.863905325443787
+BASQUE RESULTS, NO PRETRAINING--------------------------------------
+N 1 D_in 8906 H 100
+Begin training...
+Epoch  0 , loss: 0.6546700596809387
+Epoch  4 , loss: 0.47543641924858093
+Epoch  8 , loss: 0.524804413318634
+Epoch  12 , loss: 0.48681092262268066
+Epoch  16 , loss: 0.41943421959877014
+Epoch  20 , loss: 0.50080806016922
+Epoch  24 , loss: 0.46130555868148804
+Epoch  28 , loss: 0.5144522190093994
+Epoch  32 , loss: 0.4979774057865143
+Epoch  36 , loss: 0.4510634243488312
+Epoch  40 , loss: 0.43248462677001953
+Epoch  44 , loss: 0.48831337690353394
+Epoch  48 , loss: 0.45758602023124695
+Epoch  52 , loss: 0.4519118368625641
+Epoch  56 , loss: 0.5365332365036011
+Epoch  60 , loss: 0.49739667773246765
+Epoch  64 , loss: 0.5088065266609192
+Epoch  68 , loss: 0.4815796911716461
+Epoch  72 , loss: 0.5204474925994873
+Epoch  76 , loss: 0.5460888743400574
+Epoch  80 , loss: 0.4417245388031006
+Epoch  84 , loss: 0.5102443695068359
+Epoch  88 , loss: 0.47643792629241943
+Epoch  92 , loss: 0.4750591218471527
+Epoch  96 , loss: 0.47516384720802307
+Epoch  100 , loss: 0.34570610523223877
+Epoch  104 , loss: 0.49662309885025024
+Epoch  108 , loss: 0.5422646999359131
+Epoch  112 , loss: 0.3629804849624634
+Epoch  116 , loss: 0.5605177879333496
+Epoch  120 , loss: 0.4966866374015808
+Epoch  124 , loss: 0.371545672416687
+Epoch  128 , loss: 0.5742924213409424
+Epoch  132 , loss: 0.5120280981063843
+Epoch  136 , loss: 0.6795434951782227
+Epoch  140 , loss: 0.5116466879844666
+Epoch  144 , loss: 0.550582230091095
+Epoch  148 , loss: 0.5685833096504211
+Epoch  152 , loss: 0.4476643204689026
+Epoch  156 , loss: 0.4249626696109772
+Epoch  160 , loss: 0.5572431087493896
+Epoch  164 , loss: 0.2375507801771164
+Epoch  168 , loss: 0.41530248522758484
+Epoch  172 , loss: 0.47170811891555786
+Epoch  176 , loss: 0.5421842336654663
+Epoch  180 , loss: 0.3671731650829315
+Epoch  184 , loss: 0.2325354963541031
+Epoch  188 , loss: 0.4735294580459595
+Epoch  192 , loss: 0.4591327905654907
+Epoch  196 , loss: 0.35931870341300964
+Epoch  200 , loss: 0.44942888617515564
+Epoch  204 , loss: 0.7710246443748474
+Epoch  208 , loss: 0.437387079000473
+Epoch  212 , loss: 0.47226396203041077
+Epoch  216 , loss: 0.6444079279899597
+Epoch  220 , loss: 0.27975568175315857
+Epoch  224 , loss: 0.44034165143966675
+Epoch  228 , loss: 0.4761269688606262
+Epoch  232 , loss: 0.32484182715415955
+Epoch  236 , loss: 0.27788081765174866
+Epoch  240 , loss: 0.1773451268672943
+Epoch  244 , loss: 0.15450730919837952
+Epoch  248 , loss: 0.33099448680877686
+Epoch  252 , loss: 0.17410153150558472
+Epoch  256 , loss: 0.20820029079914093
+Epoch  260 , loss: 0.0445234514772892
+Epoch  264 , loss: 0.3985605835914612
+Epoch  268 , loss: 0.28800350427627563
+Epoch  272 , loss: 0.06712575256824493
+Epoch  276 , loss: 0.18385113775730133
+Epoch  280 , loss: 0.7038006782531738
+Epoch  284 , loss: 0.16417257487773895
+Epoch  288 , loss: 0.0032879486680030823
+Epoch  292 , loss: 0.01934402994811535
+Epoch  296 , loss: 0.02091798186302185
+Epoch  300 , loss: 0.421881765127182
+Epoch  304 , loss: 0.12242019176483154
+Epoch  308 , loss: 0.0670088604092598
+Epoch  312 , loss: 0.20819653570652008
+Epoch  316 , loss: 0.0066113038919866085
+Epoch  320 , loss: 0.007912705652415752
+Epoch  324 , loss: 0.01145502645522356
+Epoch  328 , loss: 0.06629154831171036
+Epoch  332 , loss: 0.045826975256204605
+Epoch  336 , loss: 0.057959359139204025
+Epoch  340 , loss: 0.06231902539730072
+Epoch  344 , loss: 0.039788730442523956
+Epoch  348 , loss: 0.09441044926643372
+Epoch  352 , loss: 0.009197458624839783
+Epoch  356 , loss: 0.057228200137615204
+Epoch  360 , loss: 0.4649522602558136
+Epoch  364 , loss: 0.22934187948703766
+Epoch  368 , loss: 0.025684885680675507
+Epoch  372 , loss: 0.12424884736537933
+Epoch  376 , loss: 0.07990651577711105
+Epoch  380 , loss: 0.03151853010058403
+Epoch  384 , loss: 0.04249973222613335
+Epoch  388 , loss: 0.05042823776602745
+Epoch  392 , loss: 0.29001685976982117
+Epoch  396 , loss: 0.1832202523946762
+Epoch  400 , loss: 0.04472216218709946
+Epoch  404 , loss: 0.14786610007286072
+Epoch  408 , loss: 0.034512195736169815
+Epoch  412 , loss: 0.3694392442703247
+Epoch  416 , loss: 0.005102076567709446
+Epoch  420 , loss: 0.1571226865053177
+Epoch  424 , loss: 0.2757527232170105
+Epoch  428 , loss: 0.22544920444488525
+Epoch  432 , loss: 0.09684252738952637
+Epoch  436 , loss: 0.17748400568962097
+Epoch  440 , loss: 0.04560865834355354
+Epoch  444 , loss: 0.00527583621442318
+Epoch  448 , loss: 0.0018684434471651912
+Epoch  452 , loss: 0.004696437623351812
+Epoch  456 , loss: 0.15406781435012817
+Epoch  460 , loss: 0.003475540317595005
+Epoch  464 , loss: 0.030980121344327927
+Epoch  468 , loss: 0.09348082542419434
+Epoch  472 , loss: 0.026282578706741333
+Epoch  476 , loss: 0.001962123904377222
+Epoch  480 , loss: 0.20300745964050293
+Epoch  484 , loss: 0.0011520057450979948
+Epoch  488 , loss: 0.00856337696313858
+Epoch  492 , loss: 0.790389358997345
+Epoch  496 , loss: 0.12910130620002747
+Epoch  500 , loss: 0.8658828139305115
+Epoch  504 , loss: 0.03679640591144562
+Epoch  508 , loss: 0.0006406448082998395
+Epoch  512 , loss: 0.5784440636634827
+Epoch  516 , loss: 0.003594353562220931
+Epoch  520 , loss: 0.07247436791658401
+Epoch  524 , loss: 0.026156160980463028
+Epoch  528 , loss: 0.10041914880275726
+Epoch  532 , loss: 0.001409807475283742
+Epoch  536 , loss: 0.722682774066925
+Epoch  540 , loss: 0.014340989291667938
+Epoch  544 , loss: 0.15916292369365692
+Epoch  548 , loss: 0.3206653594970703
+Epoch  552 , loss: 0.19610756635665894
+Epoch  556 , loss: 0.4049939513206482
+Epoch  560 , loss: 0.007285763043910265
+Epoch  564 , loss: 0.001588294981047511
+Epoch  568 , loss: 0.766819179058075
+Epoch  572 , loss: 0.005839505698531866
+Epoch  576 , loss: 0.005616636946797371
+Epoch  580 , loss: 0.04346800222992897
+Epoch  584 , loss: 0.017275825142860413
+Epoch  588 , loss: 0.032581791281700134
+Epoch  592 , loss: 0.24516360461711884
+Epoch  596 , loss: 0.04124061390757561
+Reached end
+Predicted tensor([ 1.3305, -0.3206]) Actual tensor([1., 0.])
+Predicted tensor([0.4488, 0.5294]) Actual tensor([0., 1.])
+Predicted tensor([0.4915, 0.5149]) Actual tensor([0., 1.])
+Predicted tensor([0.4765, 0.5199]) Actual tensor([0., 1.])
+Predicted tensor([0.7889, 0.1545]) Actual tensor([1., 0.])
+Predicted tensor([0.5447, 0.4346]) Actual tensor([1., 0.])
+Predicted tensor([0.2739, 0.7227]) Actual tensor([0., 1.])
+Predicted tensor([0.4444, 0.5723]) Actual tensor([0., 1.])
+Predicted tensor([0.0637, 0.9226]) Actual tensor([0., 1.])
+Predicted tensor([0.9388, 0.0646]) Actual tensor([0., 1.])
+Predicted tensor([0.6029, 0.4131]) Actual tensor([1., 0.])
+Predicted tensor([0.9366, 0.0590]) Actual tensor([1., 0.])
+Predicted tensor([0.6416, 0.3084]) Actual tensor([1., 0.])
+Predicted tensor([0.3859, 0.6057]) Actual tensor([1., 0.])
+Predicted tensor([0.3726, 0.6339]) Actual tensor([1., 0.])
+Predicted tensor([0.5233, 0.4609]) Actual tensor([0., 1.])
+Predicted tensor([0.0624, 0.9287]) Actual tensor([0., 1.])
+Predicted tensor([0.1625, 0.8177]) Actual tensor([0., 1.])
+Predicted tensor([0.3565, 0.6439]) Actual tensor([1., 0.])
+Predicted tensor([0.9183, 0.0686]) Actual tensor([1., 0.])
+Predicted tensor([0.2874, 0.7468]) Actual tensor([0., 1.])
+Predicted tensor([ 0.9825, -0.0153]) Actual tensor([1., 0.])
+Predicted tensor([0.3659, 0.6543]) Actual tensor([0., 1.])
+Predicted tensor([0.2739, 0.6887]) Actual tensor([0., 1.])
+Predicted tensor([0.4531, 0.5534]) Actual tensor([1., 0.])
+Predicted tensor([0.0934, 0.9039]) Actual tensor([0., 1.])
+Predicted tensor([0.7870, 0.2150]) Actual tensor([1., 0.])
+Predicted tensor([-0.0659,  1.0809]) Actual tensor([0., 1.])
+Predicted tensor([0.8176, 0.1817]) Actual tensor([1., 0.])
+Predicted tensor([0.3234, 0.6354]) Actual tensor([0., 1.])
+Predicted tensor([0.3198, 0.6920]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1171, -0.0626]) Actual tensor([1., 0.])
+Predicted tensor([0.4631, 0.5420]) Actual tensor([1., 0.])
+Predicted tensor([0.3275, 0.6834]) Actual tensor([0., 1.])
+Predicted tensor([0.8384, 0.2202]) Actual tensor([0., 1.])
+Predicted tensor([0.2583, 0.7513]) Actual tensor([1., 0.])
+Predicted tensor([0.1996, 0.8412]) Actual tensor([0., 1.])
+Predicted tensor([0.3467, 0.6360]) Actual tensor([0., 1.])
+Predicted tensor([0.9224, 0.0707]) Actual tensor([1., 0.])
+Predicted tensor([0.4778, 0.5452]) Actual tensor([0., 1.])
+Predicted tensor([0.5291, 0.4747]) Actual tensor([1., 0.])
+Predicted tensor([0.0838, 0.9131]) Actual tensor([0., 1.])
+Predicted tensor([ 1.3848, -0.3858]) Actual tensor([1., 0.])
+Predicted tensor([0.4867, 0.4972]) Actual tensor([1., 0.])
+Predicted tensor([0.3649, 0.6396]) Actual tensor([0., 1.])
+Predicted tensor([0.0476, 0.9449]) Actual tensor([0., 1.])
+Predicted tensor([0.2155, 0.7977]) Actual tensor([0., 1.])
+Predicted tensor([0.7519, 0.3279]) Actual tensor([1., 0.])
+Predicted tensor([0.4734, 0.5317]) Actual tensor([1., 0.])
+Predicted tensor([0.5178, 0.4631]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0542, -0.0822]) Actual tensor([1., 0.])
+Predicted tensor([0.5446, 0.4579]) Actual tensor([1., 0.])
+Predicted tensor([0.2903, 0.7126]) Actual tensor([0., 1.])
+Predicted tensor([0.4075, 0.5974]) Actual tensor([1., 0.])
+Predicted tensor([0.5645, 0.4475]) Actual tensor([0., 1.])
+Predicted tensor([0.5124, 0.4544]) Actual tensor([0., 1.])
+Predicted tensor([0.3719, 0.6486]) Actual tensor([0., 1.])
+Predicted tensor([0.6076, 0.3600]) Actual tensor([1., 0.])
+Predicted tensor([0.3351, 0.6429]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1929, -0.2147]) Actual tensor([1., 0.])
+Predicted tensor([0.8142, 0.1743]) Actual tensor([1., 0.])
+Predicted tensor([0.4112, 0.6284]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0615, -0.0716]) Actual tensor([1., 0.])
+Predicted tensor([0.2863, 0.6701]) Actual tensor([1., 0.])
+Predicted tensor([0.2553, 0.7466]) Actual tensor([0., 1.])
+Predicted tensor([0.0587, 0.9767]) Actual tensor([0., 1.])
+Predicted tensor([0.4722, 0.5677]) Actual tensor([1., 0.])
+Predicted tensor([0.8300, 0.1249]) Actual tensor([1., 0.])
+Predicted tensor([0.0988, 0.8954]) Actual tensor([0., 1.])
+Predicted tensor([0.2592, 0.7491]) Actual tensor([0., 1.])
+Predicted tensor([-0.0442,  1.0482]) Actual tensor([0., 1.])
+Predicted tensor([0.5995, 0.4184]) Actual tensor([0., 1.])
+Predicted tensor([0.1576, 0.8231]) Actual tensor([0., 1.])
+Predicted tensor([0.2861, 0.7290]) Actual tensor([0., 1.])
+Predicted tensor([0.5164, 0.4969]) Actual tensor([1., 0.])
+Predicted tensor([0.1737, 0.8767]) Actual tensor([1., 0.])
+Predicted tensor([0.4280, 0.6019]) Actual tensor([1., 0.])
+Predicted tensor([0.0990, 0.9308]) Actual tensor([0., 1.])
+Predicted tensor([0.6467, 0.3729]) Actual tensor([1., 0.])
+Predicted tensor([0.3184, 0.7042]) Actual tensor([0., 1.])
+Predicted tensor([0.7825, 0.2749]) Actual tensor([1., 0.])
+Predicted tensor([0.2194, 0.7847]) Actual tensor([1., 0.])
+Predicted tensor([0.3516, 0.6826]) Actual tensor([0., 1.])
+Predicted tensor([0.3059, 0.7034]) Actual tensor([0., 1.])
+Predicted tensor([0.1485, 0.8348]) Actual tensor([1., 0.])
+Predicted tensor([0.5372, 0.4305]) Actual tensor([0., 1.])
+Predicted tensor([0.9318, 0.0922]) Actual tensor([1., 0.])
+Predicted tensor([0.5816, 0.4799]) Actual tensor([1., 0.])
+Predicted tensor([0.0027, 0.9659]) Actual tensor([0., 1.])
+Predicted tensor([0.8071, 0.2336]) Actual tensor([1., 0.])
+Predicted tensor([0.1719, 0.8164]) Actual tensor([0., 1.])
+Predicted tensor([0.7578, 0.2326]) Actual tensor([1., 0.])
+Predicted tensor([-0.1891,  1.1835]) Actual tensor([0., 1.])
+Predicted tensor([0.9747, 0.0472]) Actual tensor([1., 0.])
+Predicted tensor([0.9016, 0.0722]) Actual tensor([0., 1.])
+Predicted tensor([0.3850, 0.6263]) Actual tensor([1., 0.])
+Predicted tensor([0.5233, 0.4988]) Actual tensor([1., 0.])
+Predicted tensor([0.1267, 0.8863]) Actual tensor([0., 1.])
+Predicted tensor([0.2746, 0.6918]) Actual tensor([1., 0.])
+Predicted tensor([ 1.2482, -0.2518]) Actual tensor([1., 0.])
+Predicted tensor([0.4654, 0.5240]) Actual tensor([1., 0.])
+Predicted tensor([0.2494, 0.7089]) Actual tensor([1., 0.])
+Predicted tensor([0.2822, 0.7162]) Actual tensor([0., 1.])
+Predicted tensor([0.3419, 0.7095]) Actual tensor([1., 0.])
+Predicted tensor([0.2141, 0.7667]) Actual tensor([0., 1.])
+Predicted tensor([0.4963, 0.4782]) Actual tensor([1., 0.])
+Predicted tensor([0.5266, 0.5211]) Actual tensor([0., 1.])
+Predicted tensor([0.6061, 0.4025]) Actual tensor([0., 1.])
+Predicted tensor([0.8277, 0.2235]) Actual tensor([1., 0.])
+Predicted tensor([0.0360, 0.9688]) Actual tensor([0., 1.])
+Predicted tensor([0.8282, 0.1586]) Actual tensor([1., 0.])
+Predicted tensor([0.9907, 0.0506]) Actual tensor([1., 0.])
+Predicted tensor([-0.0625,  1.0759]) Actual tensor([1., 0.])
+Predicted tensor([0.3924, 0.6066]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2271, -0.2237]) Actual tensor([1., 0.])
+Predicted tensor([0.8654, 0.1562]) Actual tensor([1., 0.])
+Predicted tensor([0.4285, 0.5971]) Actual tensor([1., 0.])
+Predicted tensor([0.2501, 0.7350]) Actual tensor([0., 1.])
+Predicted tensor([0.8576, 0.1441]) Actual tensor([1., 0.])
+Predicted tensor([0.2723, 0.7178]) Actual tensor([0., 1.])
+Predicted tensor([0.4159, 0.5497]) Actual tensor([0., 1.])
+Predicted tensor([ 1.3886, -0.3854]) Actual tensor([1., 0.])
+Predicted tensor([0.2063, 0.7984]) Actual tensor([1., 0.])
+Predicted tensor([0.2390, 0.7415]) Actual tensor([0., 1.])
+Predicted tensor([0.9442, 0.0295]) Actual tensor([1., 0.])
+Predicted tensor([0.5395, 0.4387]) Actual tensor([1., 0.])
+Predicted tensor([0.2336, 0.7232]) Actual tensor([1., 0.])
+Predicted tensor([0.1046, 0.8927]) Actual tensor([0., 1.])
+Predicted tensor([1.0265, 0.0032]) Actual tensor([1., 0.])
+Predicted tensor([0.4577, 0.5555]) Actual tensor([0., 1.])
+Predicted tensor([0.9163, 0.0733]) Actual tensor([1., 0.])
+Predicted tensor([0.0837, 0.9413]) Actual tensor([0., 1.])
+Predicted tensor([0.1610, 0.8271]) Actual tensor([0., 1.])
+Predicted tensor([0.8366, 0.1856]) Actual tensor([1., 0.])
+Predicted tensor([0.3260, 0.7131]) Actual tensor([1., 0.])
+Predicted tensor([0.8072, 0.1383]) Actual tensor([1., 0.])
+Predicted tensor([0.4889, 0.4764]) Actual tensor([0., 1.])
+Predicted tensor([0.3233, 0.6509]) Actual tensor([0., 1.])
+Predicted tensor([0.1619, 0.8944]) Actual tensor([0., 1.])
+Predicted tensor([0.6214, 0.3728]) Actual tensor([0., 1.])
+Predicted tensor([0.7951, 0.2207]) Actual tensor([1., 0.])
+Predicted tensor([ 1.2137, -0.2261]) Actual tensor([1., 0.])
+Predicted tensor([0.1016, 0.8913]) Actual tensor([0., 1.])
+Predicted tensor([0.2559, 0.7334]) Actual tensor([0., 1.])
+Predicted tensor([0.3624, 0.6662]) Actual tensor([0., 1.])
+Predicted tensor([0.3800, 0.6203]) Actual tensor([0., 1.])
+Predicted tensor([0.2080, 0.7755]) Actual tensor([0., 1.])
+Predicted tensor([0.7332, 0.3139]) Actual tensor([1., 0.])
+Predicted tensor([0.5524, 0.4300]) Actual tensor([0., 1.])
+Predicted tensor([0.5515, 0.4497]) Actual tensor([1., 0.])
+Predicted tensor([0.9365, 0.0741]) Actual tensor([1., 0.])
+Predicted tensor([0.2316, 0.7947]) Actual tensor([0., 1.])
+Predicted tensor([0.2016, 0.7711]) Actual tensor([0., 1.])
+Predicted tensor([0.0059, 0.9717]) Actual tensor([0., 1.])
+Predicted tensor([0.2906, 0.7065]) Actual tensor([1., 0.])
+Predicted tensor([0.5096, 0.4888]) Actual tensor([1., 0.])
+Predicted tensor([0.6502, 0.3493]) Actual tensor([1., 0.])
+Predicted tensor([0.9550, 0.0438]) Actual tensor([1., 0.])
+Predicted tensor([0.1118, 0.9124]) Actual tensor([0., 1.])
+Predicted tensor([0.3809, 0.5783]) Actual tensor([0., 1.])
+Predicted tensor([0.2801, 0.7118]) Actual tensor([1., 0.])
+Predicted tensor([0.7264, 0.3083]) Actual tensor([1., 0.])
+Predicted tensor([0.4085, 0.6020]) Actual tensor([0., 1.])
+Predicted tensor([0.7854, 0.2001]) Actual tensor([1., 0.])
+Predicted tensor([0.2107, 0.8115]) Actual tensor([0., 1.])
+Predicted tensor([0.4302, 0.5995]) Actual tensor([0., 1.])
+Predicted tensor([0.6302, 0.4018]) Actual tensor([1., 0.])
+Predicted tensor([0.2363, 0.7756]) Actual tensor([0., 1.])
+Predicted tensor([0.5627, 0.4049]) Actual tensor([1., 0.])
+Predicted tensor([-0.1131,  1.1239]) Actual tensor([0., 1.])
+Predicted tensor([0.9008, 0.1138]) Actual tensor([1., 0.])
+Predicted tensor([0.3993, 0.5862]) Actual tensor([0., 1.])
+Predicted tensor([0.2007, 0.8010]) Actual tensor([0., 1.])
+Predicted tensor([0.6924, 0.2727]) Actual tensor([1., 0.])
+Predicted tensor([0.3500, 0.6585]) Actual tensor([0., 1.])
+Predicted tensor([0.2542, 0.6991]) Actual tensor([0., 1.])
+Predicted tensor([0.9072, 0.0651]) Actual tensor([1., 0.])
+Predicted tensor([-0.0382,  1.0537]) Actual tensor([0., 1.])
+Predicted tensor([0.7560, 0.2354]) Actual tensor([1., 0.])
+Predicted tensor([0.2001, 0.7917]) Actual tensor([0., 1.])
+Predicted tensor([0.1913, 0.7931]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0757, -0.0394]) Actual tensor([1., 0.])
+Predicted tensor([0.3551, 0.6613]) Actual tensor([1., 0.])
+Predicted tensor([0.1656, 0.8666]) Actual tensor([0., 1.])
+Predicted tensor([0.1966, 0.7715]) Actual tensor([1., 0.])
+Predicted tensor([0.1805, 0.8270]) Actual tensor([0., 1.])
+Predicted tensor([0.0996, 0.8872]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0241, -0.0443]) Actual tensor([1., 0.])
+Predicted tensor([0.7463, 0.2081]) Actual tensor([1., 0.])
+Predicted tensor([0.0078, 0.9953]) Actual tensor([0., 1.])
+Predicted tensor([0.2391, 0.7615]) Actual tensor([0., 1.])
+Predicted tensor([0.7935, 0.2339]) Actual tensor([1., 0.])
+Predicted tensor([0.2362, 0.7969]) Actual tensor([0., 1.])
+Predicted tensor([0.5664, 0.4160]) Actual tensor([0., 1.])
+Predicted tensor([0.1717, 0.8246]) Actual tensor([0., 1.])
+Predicted tensor([0.8161, 0.2157]) Actual tensor([1., 0.])
+Predicted tensor([0.3119, 0.6954]) Actual tensor([1., 0.])
+Predicted tensor([0.2482, 0.7784]) Actual tensor([1., 0.])
+Predicted tensor([-0.0077,  0.9893]) Actual tensor([0., 1.])
+Predicted tensor([0.3261, 0.6692]) Actual tensor([1., 0.])
+Predicted tensor([0.1974, 0.7975]) Actual tensor([0., 1.])
+Predicted tensor([0.8674, 0.1817]) Actual tensor([1., 0.])
+Predicted tensor([0.2377, 0.7469]) Actual tensor([0., 1.])
+Predicted tensor([0.4394, 0.6025]) Actual tensor([0., 1.])
+Predicted tensor([0.7523, 0.2573]) Actual tensor([1., 0.])
+Predicted tensor([0.6725, 0.3500]) Actual tensor([1., 0.])
+Predicted tensor([0.9238, 0.0854]) Actual tensor([1., 0.])
+Predicted tensor([0.6944, 0.2724]) Actual tensor([1., 0.])
+Predicted tensor([0.3015, 0.7332]) Actual tensor([1., 0.])
+Predicted tensor([0.3355, 0.6614]) Actual tensor([1., 0.])
+Predicted tensor([-0.0175,  1.0335]) Actual tensor([0., 1.])
+Predicted tensor([0.3555, 0.6648]) Actual tensor([0., 1.])
+Predicted tensor([0.4485, 0.5669]) Actual tensor([1., 0.])
+Predicted tensor([0.1682, 0.8364]) Actual tensor([0., 1.])
+Predicted tensor([0.2861, 0.7184]) Actual tensor([0., 1.])
+Predicted tensor([0.6676, 0.3378]) Actual tensor([1., 0.])
+Predicted tensor([0.7588, 0.2545]) Actual tensor([0., 1.])
+Predicted tensor([0.2664, 0.7358]) Actual tensor([0., 1.])
+Predicted tensor([1.0484, 0.0401]) Actual tensor([1., 0.])
+Predicted tensor([0.3397, 0.6700]) Actual tensor([1., 0.])
+Predicted tensor([0.2173, 0.7664]) Actual tensor([1., 0.])
+Predicted tensor([0.4440, 0.5302]) Actual tensor([1., 0.])
+Predicted tensor([0.7277, 0.2668]) Actual tensor([1., 0.])
+Predicted tensor([0.3453, 0.6707]) Actual tensor([0., 1.])
+Predicted tensor([0.2801, 0.7308]) Actual tensor([1., 0.])
+Predicted tensor([0.3610, 0.6821]) Actual tensor([1., 0.])
+Predicted tensor([0.5204, 0.4685]) Actual tensor([1., 0.])
+Predicted tensor([0.1274, 0.8492]) Actual tensor([0., 1.])
+Predicted tensor([-0.0049,  1.0072]) Actual tensor([0., 1.])
+Predicted tensor([0.3691, 0.6187]) Actual tensor([0., 1.])
+Predicted tensor([0.6637, 0.3379]) Actual tensor([0., 1.])
+Predicted tensor([0.7334, 0.2364]) Actual tensor([1., 0.])
+Predicted tensor([0.9353, 0.0617]) Actual tensor([1., 0.])
+Predicted tensor([0.0999, 0.9373]) Actual tensor([0., 1.])
+Predicted tensor([0.1080, 0.9569]) Actual tensor([1., 0.])
+Predicted tensor([0.2258, 0.7622]) Actual tensor([0., 1.])
+Predicted tensor([0.7483, 0.2813]) Actual tensor([0., 1.])
+Predicted tensor([0.4057, 0.5719]) Actual tensor([0., 1.])
+Predicted tensor([0.2269, 0.7609]) Actual tensor([0., 1.])
+Predicted tensor([0.1512, 0.8534]) Actual tensor([0., 1.])
+Predicted tensor([0.6960, 0.2822]) Actual tensor([1., 0.])
+Predicted tensor([0.1820, 0.8627]) Actual tensor([0., 1.])
+Predicted tensor([0.0996, 0.8835]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2902, -0.2890]) Actual tensor([1., 0.])
+Predicted tensor([ 0.9777, -0.0061]) Actual tensor([1., 0.])
+Predicted tensor([0.3887, 0.6148]) Actual tensor([1., 0.])
+Predicted tensor([0.6841, 0.2788]) Actual tensor([0., 1.])
+Predicted tensor([0.2892, 0.6836]) Actual tensor([1., 0.])
+Predicted tensor([0.2190, 0.7871]) Actual tensor([0., 1.])
+Predicted tensor([0.1895, 0.8024]) Actual tensor([0., 1.])
+Predicted tensor([0.1644, 0.8145]) Actual tensor([0., 1.])
+Predicted tensor([ 0.9882, -0.0405]) Actual tensor([1., 0.])
+Predicted tensor([0.8508, 0.1127]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1601, -0.1915]) Actual tensor([1., 0.])
+Predicted tensor([0.3891, 0.6092]) Actual tensor([0., 1.])
+Predicted tensor([0.3751, 0.6134]) Actual tensor([0., 1.])
+Predicted tensor([0.3689, 0.5628]) Actual tensor([0., 1.])
+Predicted tensor([ 1.1414, -0.1245]) Actual tensor([1., 0.])
+Predicted tensor([0.1565, 0.8679]) Actual tensor([0., 1.])
+Predicted tensor([0.1405, 0.8628]) Actual tensor([0., 1.])
+Predicted tensor([0.4034, 0.5942]) Actual tensor([1., 0.])
+Predicted tensor([0.2031, 0.8413]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0666, -0.0196]) Actual tensor([1., 0.])
+Predicted tensor([0.6702, 0.3091]) Actual tensor([1., 0.])
+Predicted tensor([0.6037, 0.4036]) Actual tensor([1., 0.])
+Predicted tensor([0.1981, 0.8267]) Actual tensor([0., 1.])
+Predicted tensor([0.4314, 0.5715]) Actual tensor([1., 0.])
+Predicted tensor([0.1475, 0.8197]) Actual tensor([0., 1.])
+Predicted tensor([0.2544, 0.7420]) Actual tensor([0., 1.])
+Predicted tensor([0.1584, 0.8223]) Actual tensor([0., 1.])
+Predicted tensor([0.3352, 0.6665]) Actual tensor([0., 1.])
+Predicted tensor([0.5500, 0.4511]) Actual tensor([1., 0.])
+Predicted tensor([0.4663, 0.5298]) Actual tensor([1., 0.])
+Predicted tensor([-0.2768,  1.3085]) Actual tensor([0., 1.])
+Predicted tensor([0.9168, 0.0620]) Actual tensor([1., 0.])
+Predicted tensor([0.2259, 0.7575]) Actual tensor([0., 1.])
+Predicted tensor([0.8244, 0.2097]) Actual tensor([1., 0.])
+Predicted tensor([0.7176, 0.3012]) Actual tensor([1., 0.])
+Predicted tensor([0.7385, 0.2764]) Actual tensor([0., 1.])
+Predicted tensor([-0.0248,  1.0025]) Actual tensor([0., 1.])
+Predicted tensor([0.9279, 0.0744]) Actual tensor([1., 0.])
+Predicted tensor([0.4878, 0.4868]) Actual tensor([1., 0.])
+Predicted tensor([0.5326, 0.4880]) Actual tensor([1., 0.])
+Predicted tensor([0.0757, 0.9345]) Actual tensor([0., 1.])
+Predicted tensor([0.1868, 0.7748]) Actual tensor([1., 0.])
+Predicted tensor([0.2074, 0.7892]) Actual tensor([0., 1.])
+Predicted tensor([0.3102, 0.7109]) Actual tensor([0., 1.])
+Predicted tensor([0.1900, 0.8000]) Actual tensor([1., 0.])
+Predicted tensor([0.2420, 0.7742]) Actual tensor([1., 0.])
+Predicted tensor([-0.0870,  1.0629]) Actual tensor([0., 1.])
+Predicted tensor([0.5596, 0.4386]) Actual tensor([0., 1.])
+Predicted tensor([0.1354, 0.8720]) Actual tensor([0., 1.])
+Predicted tensor([0.6963, 0.3146]) Actual tensor([1., 0.])
+Predicted tensor([0.6652, 0.3785]) Actual tensor([1., 0.])
+Predicted tensor([0.8352, 0.2009]) Actual tensor([1., 0.])
+Predicted tensor([0.2186, 0.7786]) Actual tensor([0., 1.])
+Predicted tensor([0.2670, 0.7136]) Actual tensor([0., 1.])
+Predicted tensor([0.8477, 0.1791]) Actual tensor([1., 0.])
+Predicted tensor([0.2568, 0.7453]) Actual tensor([0., 1.])
+Predicted tensor([0.3447, 0.6890]) Actual tensor([1., 0.])
+Predicted tensor([0.3238, 0.6621]) Actual tensor([0., 1.])
+Predicted tensor([0.2317, 0.7800]) Actual tensor([0., 1.])
+Predicted tensor([0.6932, 0.3126]) Actual tensor([1., 0.])
+Predicted tensor([0.1653, 0.8019]) Actual tensor([1., 0.])
+Predicted tensor([0.9782, 0.0471]) Actual tensor([0., 1.])
+Predicted tensor([0.0094, 0.9966]) Actual tensor([0., 1.])
+Predicted tensor([0.6264, 0.3813]) Actual tensor([1., 0.])
+Predicted tensor([0.1660, 0.8180]) Actual tensor([0., 1.])
+Predicted tensor([0.7061, 0.3172]) Actual tensor([1., 0.])
+Predicted tensor([0.7129, 0.2863]) Actual tensor([1., 0.])
+Predicted tensor([0.1994, 0.8118]) Actual tensor([0., 1.])
+Predicted tensor([0.8982, 0.1666]) Actual tensor([1., 0.])
+Predicted tensor([0.9694, 0.0227]) Actual tensor([1., 0.])
+Predicted tensor([0.0979, 0.8982]) Actual tensor([0., 1.])
+Predicted tensor([0.2842, 0.7058]) Actual tensor([0., 1.])
+Predicted tensor([0.1410, 0.8402]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0313, -0.0541]) Actual tensor([1., 0.])
+Predicted tensor([0.4126, 0.5848]) Actual tensor([0., 1.])
+Predicted tensor([0.2807, 0.6913]) Actual tensor([1., 0.])
+Predicted tensor([0.6857, 0.2862]) Actual tensor([1., 0.])
+Predicted tensor([0.6793, 0.3263]) Actual tensor([1., 0.])
+Predicted tensor([0.8016, 0.2632]) Actual tensor([1., 0.])
+Predicted tensor([0.3205, 0.7027]) Actual tensor([0., 1.])
+Predicted tensor([0.1799, 0.8025]) Actual tensor([1., 0.])
+Predicted tensor([0.3719, 0.6095]) Actual tensor([0., 1.])
+Predicted tensor([0.0676, 0.9314]) Actual tensor([0., 1.])
+Predicted tensor([0.7048, 0.3119]) Actual tensor([0., 1.])
+Predicted tensor([0.5641, 0.4723]) Actual tensor([1., 0.])
+Predicted tensor([0.2625, 0.7064]) Actual tensor([0., 1.])
+Predicted tensor([0.5185, 0.5340]) Actual tensor([1., 0.])
+Predicted tensor([0.7825, 0.2036]) Actual tensor([1., 0.])
+Predicted tensor([0.3270, 0.6780]) Actual tensor([1., 0.])
+Predicted tensor([0.2173, 0.7891]) Actual tensor([1., 0.])
+Predicted tensor([0.3888, 0.5918]) Actual tensor([1., 0.])
+Predicted tensor([-0.3073,  1.3024]) Actual tensor([0., 1.])
+Predicted tensor([0.3960, 0.5882]) Actual tensor([0., 1.])
+Predicted tensor([0.5811, 0.4042]) Actual tensor([0., 1.])
+Predicted tensor([0.1127, 0.8958]) Actual tensor([0., 1.])
+Predicted tensor([ 0.9661, -0.0026]) Actual tensor([1., 0.])
+Predicted tensor([0.3475, 0.6328]) Actual tensor([1., 0.])
+Predicted tensor([0.5617, 0.4203]) Actual tensor([1., 0.])
+Predicted tensor([ 1.1369, -0.1584]) Actual tensor([1., 0.])
+Predicted tensor([0.4914, 0.5119]) Actual tensor([1., 0.])
+Predicted tensor([0.6804, 0.2849]) Actual tensor([1., 0.])
+Predicted tensor([0.5220, 0.4617]) Actual tensor([1., 0.])
+Predicted tensor([0.3129, 0.6934]) Actual tensor([1., 0.])
+Predicted tensor([0.6491, 0.3571]) Actual tensor([1., 0.])
+Predicted tensor([0.3305, 0.6588]) Actual tensor([0., 1.])
+Predicted tensor([0.2744, 0.7100]) Actual tensor([0., 1.])
+Predicted tensor([0.1622, 0.8362]) Actual tensor([0., 1.])
+Predicted tensor([0.2096, 0.8132]) Actual tensor([0., 1.])
+Predicted tensor([0.2649, 0.7413]) Actual tensor([0., 1.])
+Predicted tensor([0.2056, 0.7917]) Actual tensor([0., 1.])
+Predicted tensor([0.6789, 0.3439]) Actual tensor([0., 1.])
+Predicted tensor([0.5138, 0.5032]) Actual tensor([1., 0.])
+Predicted tensor([0.1333, 0.8695]) Actual tensor([0., 1.])
+Predicted tensor([0.3929, 0.6090]) Actual tensor([1., 0.])
+Predicted tensor([0.6971, 0.3322]) Actual tensor([1., 0.])
+Predicted tensor([0.4188, 0.6308]) Actual tensor([1., 0.])
+Predicted tensor([-0.0280,  1.0357]) Actual tensor([0., 1.])
+Predicted tensor([0.4399, 0.6167]) Actual tensor([1., 0.])
+Predicted tensor([0.5142, 0.5491]) Actual tensor([1., 0.])
+Predicted tensor([0.2360, 0.7082]) Actual tensor([0., 1.])
+Predicted tensor([0.6680, 0.3080]) Actual tensor([1., 0.])
+Predicted tensor([0.4394, 0.5662]) Actual tensor([0., 1.])
+Predicted tensor([0.2883, 0.7196]) Actual tensor([0., 1.])
+Predicted tensor([0.0756, 0.9349]) Actual tensor([0., 1.])
+Predicted tensor([0.0177, 0.9923]) Actual tensor([0., 1.])
+Predicted tensor([0.4757, 0.5535]) Actual tensor([1., 0.])
+Predicted tensor([0.4625, 0.5227]) Actual tensor([0., 1.])
+Predicted tensor([0.2655, 0.8059]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0179, -0.0038]) Actual tensor([1., 0.])
+Predicted tensor([0.2273, 0.7878]) Actual tensor([0., 1.])
+Predicted tensor([0.0103, 0.9683]) Actual tensor([0., 1.])
+Predicted tensor([0.3028, 0.6984]) Actual tensor([0., 1.])
+Predicted tensor([0.7039, 0.3113]) Actual tensor([1., 0.])
+Predicted tensor([0.5463, 0.4577]) Actual tensor([1., 0.])
+Predicted tensor([0.7937, 0.1751]) Actual tensor([1., 0.])
+Predicted tensor([0.4596, 0.5409]) Actual tensor([1., 0.])
+Predicted tensor([0.2580, 0.7494]) Actual tensor([1., 0.])
+Predicted tensor([0.4884, 0.5277]) Actual tensor([0., 1.])
+Predicted tensor([0.4286, 0.5501]) Actual tensor([1., 0.])
+Predicted tensor([0.3188, 0.6499]) Actual tensor([0., 1.])
+Predicted tensor([0.2167, 0.7647]) Actual tensor([1., 0.])
+Predicted tensor([0.5445, 0.4354]) Actual tensor([1., 0.])
+Predicted tensor([0.7903, 0.2524]) Actual tensor([1., 0.])
+Predicted tensor([0.6525, 0.3505]) Actual tensor([1., 0.])
+Predicted tensor([0.1745, 0.8265]) Actual tensor([0., 1.])
+Predicted tensor([0.2217, 0.7748]) Actual tensor([0., 1.])
+Predicted tensor([0.3988, 0.5812]) Actual tensor([1., 0.])
+Predicted tensor([0.3560, 0.6760]) Actual tensor([0., 1.])
+Predicted tensor([0.3500, 0.6290]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0472, -0.0308]) Actual tensor([1., 0.])
+Predicted tensor([0.8820, 0.1309]) Actual tensor([1., 0.])
+Predicted tensor([0.7419, 0.2777]) Actual tensor([1., 0.])
+Predicted tensor([ 1.0309, -0.0427]) Actual tensor([1., 0.])
+Predicted tensor([0.5882, 0.3959]) Actual tensor([1., 0.])
+Predicted tensor([0.9327, 0.0722]) Actual tensor([1., 0.])
+Predicted tensor([0.1335, 0.9028]) Actual tensor([0., 1.])
+Predicted tensor([0.3612, 0.6231]) Actual tensor([0., 1.])
+Predicted tensor([0.1563, 0.7874]) Actual tensor([0., 1.])
+Predicted tensor([0.3478, 0.6396]) Actual tensor([0., 1.])
+Predicted tensor([0.2425, 0.7597]) Actual tensor([1., 0.])
+Predicted tensor([0.2043, 0.7836]) Actual tensor([0., 1.])
+Predicted tensor([0.6268, 0.3625]) Actual tensor([0., 1.])
+Predicted tensor([0.8258, 0.1837]) Actual tensor([1., 0.])
+Predicted tensor([0.3298, 0.6724]) Actual tensor([0., 1.])
+Predicted tensor([0.2821, 0.7159]) Actual tensor([1., 0.])
+Predicted tensor([0.5074, 0.5299]) Actual tensor([1., 0.])
+Predicted tensor([0.0690, 0.9155]) Actual tensor([1., 0.])
+Predicted tensor([0.6318, 0.3812]) Actual tensor([1., 0.])
+Predicted tensor([0.4619, 0.5082]) Actual tensor([0., 1.])
+Predicted tensor([-0.0616,  1.0655]) Actual tensor([0., 1.])
+Predicted tensor([0.8789, 0.1044]) Actual tensor([1., 0.])
+Predicted tensor([0.2374, 0.7511]) Actual tensor([0., 1.])
+Predicted tensor([0.3523, 0.6246]) Actual tensor([0., 1.])
+Predicted tensor([0.3097, 0.6959]) Actual tensor([0., 1.])
+Predicted tensor([0.2835, 0.7233]) Actual tensor([0., 1.])
+Predicted tensor([0.3740, 0.6113]) Actual tensor([1., 0.])
+Predicted tensor([0.4639, 0.5460]) Actual tensor([0., 1.])
+Predicted tensor([0.1512, 0.8339]) Actual tensor([0., 1.])
+Predicted tensor([0.3894, 0.6261]) Actual tensor([1., 0.])
+Predicted tensor([0.4196, 0.5384]) Actual tensor([1., 0.])
+Predicted tensor([0.4940, 0.5195]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0839, -0.1016]) Actual tensor([1., 0.])
+Predicted tensor([1.1650e-04, 1.0242e+00]) Actual tensor([0., 1.])
+Predicted tensor([0.1475, 0.8087]) Actual tensor([0., 1.])
+Predicted tensor([0.0024, 1.0068]) Actual tensor([0., 1.])
+Predicted tensor([0.0407, 0.9630]) Actual tensor([0., 1.])
+Predicted tensor([0.6611, 0.2987]) Actual tensor([1., 0.])
+Predicted tensor([0.5629, 0.4586]) Actual tensor([0., 1.])
+Predicted tensor([0.1016, 0.9185]) Actual tensor([0., 1.])
+Predicted tensor([0.6414, 0.3542]) Actual tensor([0., 1.])
+Predicted tensor([0.3599, 0.6515]) Actual tensor([1., 0.])
+Predicted tensor([0.2862, 0.7009]) Actual tensor([1., 0.])
+Predicted tensor([ 1.2718, -0.1893]) Actual tensor([1., 0.])
+Predicted tensor([0.5113, 0.4867]) Actual tensor([1., 0.])
+Predicted tensor([0.6449, 0.3640]) Actual tensor([1., 0.])
+Predicted tensor([0.6740, 0.3311]) Actual tensor([1., 0.])
+Predicted tensor([0.5458, 0.5038]) Actual tensor([1., 0.])
+Predicted tensor([0.6154, 0.4130]) Actual tensor([0., 1.])
+Predicted tensor([0.1160, 0.8707]) Actual tensor([0., 1.])
+Predicted tensor([0.3101, 0.6999]) Actual tensor([0., 1.])
+Predicted tensor([0.5502, 0.4659]) Actual tensor([1., 0.])
+Predicted tensor([0.4856, 0.5307]) Actual tensor([1., 0.])
+Predicted tensor([0.6187, 0.3595]) Actual tensor([0., 1.])
+Predicted tensor([0.4709, 0.5399]) Actual tensor([0., 1.])
+Predicted tensor([0.2057, 0.7895]) Actual tensor([0., 1.])
+Predicted tensor([0.1621, 0.8237]) Actual tensor([0., 1.])
+Predicted tensor([0.2544, 0.6969]) Actual tensor([1., 0.])
+Predicted tensor([0.2343, 0.7668]) Actual tensor([0., 1.])
+Predicted tensor([-0.1455,  1.1696]) Actual tensor([1., 0.])
+Predicted tensor([0.4454, 0.5868]) Actual tensor([1., 0.])
+Predicted tensor([0.7222, 0.3135]) Actual tensor([1., 0.])
+Predicted tensor([0.2534, 0.7779]) Actual tensor([1., 0.])
+Predicted tensor([0.3297, 0.6835]) Actual tensor([0., 1.])
+Predicted tensor([0.4332, 0.5822]) Actual tensor([1., 0.])
+Predicted tensor([0.3670, 0.6296]) Actual tensor([0., 1.])
+Predicted tensor([0.3343, 0.6218]) Actual tensor([0., 1.])
+Predicted tensor([0.1868, 0.8257]) Actual tensor([0., 1.])
+Predicted tensor([0.3679, 0.6620]) Actual tensor([0., 1.])
+Predicted tensor([0.3133, 0.6755]) Actual tensor([0., 1.])
+Predicted tensor([0.2788, 0.7054]) Actual tensor([0., 1.])
+Predicted tensor([ 0.9983, -0.0136]) Actual tensor([1., 0.])
+Predicted tensor([0.2820, 0.6997]) Actual tensor([0., 1.])
+Predicted tensor([0.2574, 0.7482]) Actual tensor([0., 1.])
+Predicted tensor([0.3793, 0.6242]) Actual tensor([0., 1.])
+Predicted tensor([0.3116, 0.6868]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0284, -0.0544]) Actual tensor([1., 0.])
+Predicted tensor([0.6776, 0.3382]) Actual tensor([1., 0.])
+Predicted tensor([0.1689, 0.8377]) Actual tensor([0., 1.])
+Predicted tensor([0.6214, 0.3872]) Actual tensor([1., 0.])
+Predicted tensor([-0.0865,  1.0912]) Actual tensor([0., 1.])
+Predicted tensor([0.3165, 0.6539]) Actual tensor([0., 1.])
+Predicted tensor([ 1.2391, -0.2137]) Actual tensor([1., 0.])
+Predicted tensor([0.1669, 0.8162]) Actual tensor([0., 1.])
+Predicted tensor([0.8170, 0.2073]) Actual tensor([1., 0.])
+Predicted tensor([0.8796, 0.1147]) Actual tensor([1., 0.])
+Predicted tensor([0.4538, 0.5145]) Actual tensor([0., 1.])
+Predicted tensor([0.3223, 0.6738]) Actual tensor([0., 1.])
+Predicted tensor([-0.2516,  1.3690]) Actual tensor([1., 0.])
+Predicted tensor([0.3195, 0.7036]) Actual tensor([0., 1.])
+Predicted tensor([1.0072e+00, 9.5356e-04]) Actual tensor([0., 1.])
+Predicted tensor([0.0997, 0.8829]) Actual tensor([1., 0.])
+Predicted tensor([0.6787, 0.2795]) Actual tensor([1., 0.])
+Predicted tensor([0.2607, 0.7152]) Actual tensor([0., 1.])
+Predicted tensor([ 1.0901, -0.1296]) Actual tensor([1., 0.])
+Predicted tensor([0.8311, 0.1455]) Actual tensor([1., 0.])
+Predicted tensor([0.3840, 0.5949]) Actual tensor([0., 1.])
+Predicted tensor([0.6103, 0.3687]) Actual tensor([1., 0.])
+Predicted tensor([0.1742, 0.8533]) Actual tensor([0., 1.])
+Predicted tensor([0.8551, 0.1213]) Actual tensor([1., 0.])
+Predicted tensor([ 0.9801, -0.0092]) Actual tensor([1., 0.])
+Predicted tensor([0.2732, 0.7447]) Actual tensor([0., 1.])
+Predicted tensor([0.0820, 0.9326]) Actual tensor([0., 1.])
+Predicted tensor([0.1457, 0.8354]) Actual tensor([0., 1.])
+Predicted tensor([-0.0452,  1.0865]) Actual tensor([0., 1.])
+Predicted tensor([0.3473, 0.6210]) Actual tensor([0., 1.])
+Predicted tensor([0.7212, 0.3427]) Actual tensor([1., 0.])
+Predicted tensor([0.3015, 0.6894]) Actual tensor([0., 1.])
+Predicted tensor([0.5970, 0.4487]) Actual tensor([1., 0.])
+Predicted tensor([0.2484, 0.8309]) Actual tensor([0., 1.])
+Predicted tensor([0.7190, 0.3358]) Actual tensor([1., 0.])
+Predicted tensor([0.3372, 0.6607]) Actual tensor([0., 1.])
+Predicted tensor([0.8623, 0.1536]) Actual tensor([1., 0.])
+Predicted tensor([0.3499, 0.6304]) Actual tensor([0., 1.])
+Predicted tensor([0.3583, 0.6136]) Actual tensor([0., 1.])
+Total loss: tensor(172.6589)
+Erred on:  b kodaiña s guadaña &
+
+Erred on:  b bigira s adjetivo &
+
+Erred on:  b brager s cetro &
+
+Erred on:  b bazka s pasto &
+
+Erred on:  b zerka s costumbre &
+
+Erred on:  b trofeo s aduana &
+
+Erred on:  b bike s dolor &
+
+Erred on:  b loria s gloria &
+
+Erred on:  b aingeru s escudero &
+
+Erred on:  b matxorra s taravilla &
+
+Erred on:  b zikuta s navarra &
+
+Erred on:  b pagatu s margen &
+
+Erred on:  b eleja s iglesia &
+
+Erred on:  b ultraje s ultraje &
+
+Erred on:  b garbantzu s salvar &
+
+Erred on:  b karpeta s ofrenda &
+
+Erred on:  b kapuz s oprobio &
+
+Erred on:  b jipoi s jubón &
+
+Erred on:  b pake s dado &
+
+Erred on:  b pabilo s claro &
+
+Erred on:  b ganbela s maula &
+
+Erred on:  b gareta s zarpa &
+
+Erred on:  b feble s débil &
+
+Erred on:  b bezilla s arvejilla &
+
+Erred on:  b tumulto s pentecostés &
+
+Erred on:  b agilando s alambre &
+
+Erred on:  b leinu s gusto &
+
+Erred on:  b siluro s ábaco &
+
+Erred on:  b enbite s sábila &
+
+Erred on:  b kontsul s cónsul &
+
+Erred on:  b etxatu s echar &
+
+Erred on:  b subdiakono s duda &
+
+Erred on:  b gutizia s dedal &
+
+Erred on:  b abako s jarro &
+
+Erred on:  b alabe s orador &
+
+Erred on:  b nafilhar s zahorí &
+
+Erred on:  b nausa s nausea &
+
+Erred on:  b gabirai s gavilán &
+
+Erred on:  b iko s higo &
+
+Erred on:  b giadore s estribo &
+
+Erred on:  b estutxe s flaco &
+
+Erred on:  b pantza s tamaño &
+
+Erred on:  b kastor s bastón &
+
+Erred on:  b dute s té &
+
+Erred on:  b berenotsu s cobre &
+
+Erred on:  b subdiakono s colerina &
+
+Erred on:  b anakardo s ejército &
+
+Erred on:  b dibursa s puerta &
+
+Erred on:  b dono s rmbudo &
+
+Erred on:  b kontzilio s danza &
+
+Erred on:  b jünpürü s enebro &
+
+Erred on:  b dantza s ducado &
+
+Erred on:  b abantzatu s taladro &
+
+Erred on:  b opalo s cristiano &
+
+Erred on:  b zaldu s daga &
+
+Erred on:  b soslai s solo &
+
+Erred on:  b erribete s ribete &
+
+Erred on:  b abito s vanagloria &
+
+Erred on:  b bortitz s fuerte &
+
+Erred on:  b sobera s teja &
+
+Erred on:  b trezeba s pesebre &
+
+Erred on:  b erregela s orégano &
+
+Erred on:  b fungo s alcohol &
+
+Erred on:  b maiatz s fincar &
+
+Erred on:  b marka s vanguardia &
+
+Erred on:  b txarro s jarro &
+
+Erred on:  b madarikatu s casto &
+
+Erred on:  b sufritu s losa &
+
+Erred on:  b futre s cilantro &
+
+Erred on:  b detxema s diezmo &
+
+Erred on:  b zelo s estrada &
+
+Erred on:  b abarka s alaga &
+
+Erred on:  b bapo s guapo &
+
+Erred on:  b betelu s agudo &
+
+Erred on:  b gambara s garrapata &
+
+Erred on:  b dabantail s delantal &
+
+Erred on:  b erretrato s aguja &
+
+Erred on:  b adu s ánimo &
+
+Erred on:  b erregu s reina &
+
+Erred on:  b aide s teja &
+
+Erred on:  b ipuro s enebro &
+
+Erred on:  b balakatu s oler &
+
+Erred on:  b agrabiatu s alquitrán &
+
+Erred on:  b kaparrosa s casco &
+
+Erred on:  b jenero s género &
+
+Erred on:  b gubia s fatigar &
+
+Erred on:  b debot s caballero &
+
+Erred on:  b aiuta s hiena &
+
+Erred on:  b fusil s corona &
+
+Erred on:  b teitu s puerro &
+
+Erred on:  b gurutze s figura &
+
+Erred on:  b entterka s grifo &
+
+Erred on:  b eria s cuchara &
+
+Erred on:  b fieltro s marrajo &
+
+Erred on:  b bilaun s abalorio &
+
+Erred on:  b zuku s flaco &
+
+Erred on:  b estañu s estéreo &
+
+Erred on:  b bukatu s acabar &
+
+Erred on:  b marguriol s capus &
+
+Erred on:  b hondo s goma &
+
+Erred on:  b garmu s vara &
+
+Erred on:  b gerezi s dosis &
+
+Erred on:  b adreilu s fiel &
+
+Erred on:  b talo s paraíso &
+
+Erred on:  b koba s cueva &
+
+Erred on:  b eritu s herir &
+
+Erred on:  b gabarra s natura &
+
+Erred on:  b balent s manto &
+
+Erred on:  b bultza s impulso &
+
+Erred on:  b binagre s sacanabo &
+
+Erred on:  b enganatu s engañar &
+
+Erred on:  b zaurin s barra &
+
+Erred on:  b estañu s elevado &
+
+Erred on:  b mazela s círculo &
+
+Erred on:  b mendu s juego &
+
+Erred on:  b kürkürü s declarar &
+
+Erred on:  b maiorana s bajado &
+
+Erred on:  b mantal s delantal &
+
+Erred on:  b ütis s trenza &
+
+[[163  89]
+ [ 30 225]]
+F1: 0.7908611599297012
+(array([0.84455959, 0.71656051]), array([0.6468254 , 0.88235294]), array([0.73258427, 0.79086116]), array([252, 255]))
+/home/efleisig/.local/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Sequential. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/efleisig/.local/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Linear. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/efleisig/.local/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type ReLU. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+/home/efleisig/.local/lib/python3.7/site-packages/torch/serialization.py:292: UserWarning: Couldn't retrieve source code for container of type Dropout. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+252 255
+193 314
+388 507
+Accuracy: 0.7652859960552268

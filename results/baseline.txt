@@ -1,0 +1,36 @@
+ROMANCE AND GERMANIC BASELINE RESULTS---------------------------------
+[[8534 2128]
+ [ 835 9884]]
+Accuracy: 0.8614190168841495
+F1: 0.8696493775020897
+(array([0.91087629, 0.82284382]), array([0.80041268, 0.92210094]), array([0.85207928, 0.86964938]), array([10662, 10719], dtype=int64))
+10662 10719
+9369 12012
+BASQUE BASELINE, NO FINE TUNING---------------------------------------
+[[129 123]
+ [ 23 232]]
+Accuracy: 0.7120315581854043
+F1: 0.760655737704918
+(array([0.84868421, 0.65352113]), array([0.51190476, 0.90980392]), array([0.63861386, 0.76065574]), array([252, 255], dtype=int64))
+252 255
+152 355
+BASQUE BASELINE, WITH BASQUE ACCESS-----------------------------------
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\svm\_base.py:947: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+[[129 123]
+ [ 23 232]]
+Accuracy: 0.7120315581854043
+F1: 0.760655737704918
+(array([0.84868421, 0.65352113]), array([0.51190476, 0.90980392]), array([0.63861386, 0.76065574]), array([252, 255], dtype=int64))
+252 255
+152 355
+BASQUE BASELINE, BASQUE ONLY------------------------------------------
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\svm\_base.py:947: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+[[252   0]
+ [130 125]]
+Accuracy: 0.7435897435897436
+F1: 0.6578947368421052
+(array([0.65968586, 1.        ]), array([1.        , 0.49019608]), array([0.79495268, 0.65789474]), array([252, 255], dtype=int64))
+252 255
+382 125
